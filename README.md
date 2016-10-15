@@ -9,4 +9,6 @@ Compuesto por 96927 dígitos, escritos por 2151 personas diferentes.
 <a href="https://github.com/walt3rminer/datamining/blob/master/tel_images.csv.gz">Imágenes 24x24 de dígitos manuscritos</a><br />
 <a href="https://github.com/walt3rminer/datamining/blob/master/tel_labels.csv">Clase del dígito</a><br />
 <a href="https://github.com/walt3rminer/datamining/blob/master/tel_names.csv">Número del telegrama y lugar</a><br />
+<a href="https://github.com/walt3rminer/datamining/blob/master/cnn_experiments.py">Cómo leer y usar el set de datos</a>
 
+<img src="telSet1.png" />
