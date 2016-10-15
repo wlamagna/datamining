@@ -102,9 +102,8 @@ def iterate_minibatches(inputs, targets, batchsize, shuffle=False):
 # Everything else will be handled in our main program now. We could pull out
 # more functions to better separate the code, but it wouldn't make it any
 # easier to read.
-def main(layers1=6, layers2=16,batch_size=100,num_epochs=20):
+def main(batch_size=100,num_epochs=20):
     # Load the dataset
-    print("Loading data... Layers 1: %d, Layers 2: %d, Batch size: %d" % (layers1, layers2, batch_size))
     X_train, y_train, X_test, y_test = load_dataset('exp1_images.csv', 'exp1_labels.csv')
     X_train[ X_train > 0.4 ] = 1
     X_train[ X_train <= 0.4 ] = 0
@@ -195,7 +194,5 @@ if __name__ == '__main__':
     else:
         kwargs = {}
         if len(sys.argv) > 1:
-            kwargs['layers1'] = int(sys.argv[1])
-            kwargs['layers2'] = int(sys.argv[2])
             kwargs['batch_size'] = int(sys.argv[3])
         main(**kwargs)
