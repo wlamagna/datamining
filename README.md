@@ -1,5 +1,4 @@
-# datamining
-Creado para poner contenido de la Tesis de Maestria
+# Creado para poner contenido de la Tesis de Maestria
 
 telSet es un conjunto de datos creado a partir de telegramas electorales en Argentina, Octubre 2013.
 
