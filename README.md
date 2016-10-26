@@ -22,4 +22,27 @@ convert -verbose -density 150 -trim eleccion2013/01/pdfs/010110113_4625.pdf -qua
 <br />
 Las imágenes de los 2151 telegramas pueden ser obtenidas de aqui (disponible pronto).<br /><br />
 
+
+Todos los datos abiertos de las elecciones legislativas en Argentina año 2013:<br />
+<a href="">parte 1/5</a><br />
+<a href="">parte 2/5</a><br />
+<a href="">parte 3/5</a><br />
+<a href="">parte 4/5</a><br />
+<a href="">parte 5/5</a><br />
+
+El archivo ha sido dividido en partes para que sea más sencillo su descarga.  Se lo dividió
+en partes con el siguiente comando:<br />
+<pre>
+split -b 1G eleccion2013.tgz "part-"
+</pre>
+<br />
+Para volver a unirlo y des-tarearlos y des-comprimirlos:<br />
+<pre>
+cat part-a* > eleccion2013.tgz
+</pre>
+<br />
+Si no tenes linux pedile ayuda a un sysadmin que hay muchos.<br /><br />
+
+
+
 <img src="telSet1.png" />
