@@ -1,0 +1,2380 @@
+fecha,provincia,confirmados
+06-07-2020,Buenos Aires,1476
+06-07-2020,CABA,995
+06-07-2020,Catamarca,1
+06-07-2020,Chaco,26
+06-07-2020,Chubut,6
+06-07-2020,Córdoba,28
+06-07-2020,Corrientes,1
+06-07-2020,Entre Rios,5
+06-07-2020,Formosa,0
+06-07-2020,Jujuy,29
+06-07-2020,La Pampa,0
+06-07-2020,La Rioja,5
+06-07-2020,Mendoza,4
+06-07-2020,Misiones,2
+06-07-2020,Neuquen,34
+06-07-2020,Rio Negro,7
+06-07-2020,Salta,2
+06-07-2020,San Juan,1
+06-07-2020,San Luis,0
+06-07-2020,Santa Cruz,4
+06-07-2020,Santa Fe,5
+06-07-2020,Santiago del Estero,1
+06-07-2020,Tierra del Fuego,0
+05-07-2020,Buenos Aires,1517
+05-07-2020,CABA,899
+05-07-2020,Catamarca,5
+05-07-2020,Chaco,53
+05-07-2020,Chubut,0
+05-07-2020,Cordoba,13
+05-07-2020,Corrientes,0
+05-07-2020,Entre Ríos,5
+05-07-2020,Formosa,0
+05-07-2020,Jujuy,14
+05-07-2020,La Pampa,0
+05-07-2020,La Rioja,5
+05-07-2020,Mendoza,4
+05-07-2020,Misiones,0
+05-07-2020,Neuquen,20
+05-07-2020,Rio Negro,28
+05-07-2020,Salta,16
+05-07-2020,San Juan,0
+05-07-2020,San Luis,1
+05-07-2020,Santa Cruz,0
+05-07-2020,Santa Fe,5
+05-07-2020,Santiago del Estero,0
+05-07-2020,Tierra del Fuego,4
+05-07-2020,Tucuman,1
+04-07-2020,Buenos Aires,1517 
+04-07-2020,CABA,899 
+04-07-2020,Catamarca,5 
+04-07-2020,Chaco,53 
+04-07-2020,Chubut,0 
+04-07-2020,Cordoba,13 
+04-07-2020,Corrientes,0 
+04-07-2020,Entre Rios,5 
+04-07-2020,Formosa,0 
+04-07-2020,Jujuy,14 
+04-07-2020,La Pampa,0 
+04-07-2020,La Rioja,5 
+04-07-2020,Mendoza,4 
+04-07-2020,Misiones,0 
+04-07-2020,Neuquen,20 
+04-07-2020,Rio Negro,28 
+04-07-2020,Salta,16 
+04-07-2020,San Juan,0 
+04-07-2020,San Luis,1 
+04-07-2020,Santa Cruz,0 
+04-07-2020,Santa Fe,5 
+04-07-2020,Santiago del Estero,0 
+04-07-2020,Tierra del Fuego,4 
+04-07-2020,Tucuman,1 
+03-07-2020,Buenos Aires,1849 
+03-07-2020,CABA,835 
+03-07-2020,Catamarca,1 
+03-07-2020,Chaco,37 
+03-07-2020,Chubut,12 
+03-07-2020,Cordoba,8 
+03-07-2020,Corrientes,0 
+03-07-2020,Entre Rios,11 
+03-07-2020,Formosa,0 
+03-07-2020,Jujuy,20 
+03-07-2020,La Pampa,0 
+03-07-2020,La Rioja,3 
+03-07-2020,Mendoza,3 
+03-07-2020,Misiones,0 
+03-07-2020,Neuquen,28 
+03-07-2020,Rio Negro,23 
+03-07-2020,Salta,8 
+03-07-2020,San Juan,0 
+03-07-2020,San Luis,0 
+03-07-2020,Santa Cruz,0 
+03-07-2020,Santa Fe,5 
+03-07-2020,Santiago del Estero,0 
+03-07-2020,Tierra del Fuego,0 
+03-07-2020,Tucuman,2 
+02-07-2020,Buenos Aires,1733 
+02-07-2020,CABA,840 
+02-07-2020,Catamarca,0 
+02-07-2020,Chaco,81 
+02-07-2020,Chubut,0 
+02-07-2020,Cordoba,8 
+02-07-2020,Corrientes,0 
+02-07-2020,Entre Rios,14 
+02-07-2020,Formosa,1 
+02-07-2020,Jujuy,14 
+02-07-2020,La Pampa,0 
+02-07-2020,La Rioja,3 
+02-07-2020,Mendoza,2 
+02-07-2020,Misiones,0 
+02-07-2020,Neuquen,12 
+02-07-2020,Rio Negro,34 
+02-07-2020,Salta,0 
+02-07-2020,San Juan,0 
+02-07-2020,San Luis,0 
+02-07-2020,Santa Cruz,0 
+02-07-2020,Santa Fe,2 
+02-07-2020,Santiago del Estero,0 
+02-07-2020,Tierra del Fuego,0 
+02-07-2020,Tucuman,0 
+01-07-2020,Buenos Aires,1671 
+01-07-2020,CABA,841 
+01-07-2020,Catamarca,0 
+01-07-2020,Chaco,60 
+01-07-2020,Chubut,8 
+01-07-2020,Cordoba,11 
+01-07-2020,Corrientes,1 
+01-07-2020,Entre Rios,9 
+01-07-2020,Formosa,4 
+01-07-2020,Jujuy,17 
+01-07-2020,La Pampa,0 
+01-07-2020,La Rioja,1 
+01-07-2020,Mendoza,7 
+01-07-2020,Misiones,0 
+01-07-2020,Neuquen,12 
+01-07-2020,Rio Negro,13 
+01-07-2020,Salta,2 
+01-07-2020,San Juan,0 
+01-07-2020,San Luis,0 
+01-07-2020,Santa Cruz,0 
+01-07-2020,Santa Fe,1 
+01-07-2020,Santiago del Estero,1 
+01-07-2020,Tierra del Fuego,0 
+01-07-2020,Tucuman,8 
+30-06-2020,Buenos Aires,1374 
+30-06-2020,CABA,744 
+30-06-2020,Catamarca,0 
+30-06-2020,Chaco,70 
+30-06-2020,Chubut,8 
+30-06-2020,Cordoba,11 
+30-06-2020,Corrientes,0 
+30-06-2020,Entre Rios,6 
+30-06-2020,Formosa,0 
+30-06-2020,Jujuy,6 
+30-06-2020,La Pampa,0 
+30-06-2020,La Rioja,4 
+30-06-2020,Mendoza,4 
+30-06-2020,Misiones,0 
+30-06-2020,Neuquen,18 
+30-06-2020,Rio Negro,15 
+30-06-2020,Salta,1 
+30-06-2020,San Juan,0 
+30-06-2020,San Luis,0 
+30-06-2020,Santa Cruz,0 
+30-06-2020,Santa Fe,1 
+30-06-2020,Santiago del Estero,0 
+30-06-2020,Tierra del Fuego,0
+30-06-2020,Tucuman,0 
+29-06-2020,Buenos Aires,1279 
+29-06-2020,CABA,944 
+29-06-2020,Catamarca,0 
+29-06-2020,Chaco,31 
+29-06-2020,Chubut,1 
+29-06-2020,Cordoba,2 
+29-06-2020,Corrientes,2 
+29-06-2020,Entre Rios,5 
+29-06-2020,Formosa,0 
+29-06-2020,Jujuy,16 
+29-06-2020,La Pampa,0 
+29-06-2020,La Rioja,4 
+29-06-2020,Mendoza,1 
+29-06-2020,Misiones,1 
+29-06-2020,Neuquen,18 
+29-06-2020,Rio Negro,24 
+29-06-2020,Salta,3 
+29-06-2020,San Juan,0 
+29-06-2020,San Luis,0 
+29-06-2020,Santa Cruz,0 
+29-06-2020,Santa Fe,3 
+29-06-2020,Santiago del Estero,1 
+29-06-2020,Tierra del Fuego,0 
+29-06-2020,Tucuman,0 
+28-06-2020,Buenos Aires,1225 
+28-06-2020,CABA,852 
+28-06-2020,Catamarca,0 
+28-06-2020,Chaco,47 
+28-06-2020,Chubut,5 
+28-06-2020,Cordoba,5 
+28-06-2020,Corrientes,0 
+28-06-2020,Entre Rios,24 
+28-06-2020,Formosa,0 
+28-06-2020,Jujuy,0 
+28-06-2020,La Pampa,0 
+28-06-2020,La Rioja,0 
+28-06-2020,Mendoza,6 
+28-06-2020,Misiones,0 
+28-06-2020,Neuquen,12 
+28-06-2020,Rio Negro,6 
+28-06-2020,Salta,0 
+28-06-2020,San Juan,0 
+28-06-2020,San Luis,0 
+28-06-2020,Santa Cruz,0 
+28-06-2020,Santa Fe,6 
+28-06-2020,Santiago del Estero,1 
+28-06-2020,Tierra del Fuego,0 
+28-06-2020,Tucuman,0 
+27-06-2020,Buenos Aires,1423 
+27-06-2020,CABA,849 
+27-06-2020,Catamarca,0 
+27-06-2020,Chaco,52 
+27-06-2020,Chubut,0 
+27-06-2020,Cordoba,15 
+27-06-2020,Corrientes,1 
+27-06-2020,Entre Rios,12 
+27-06-2020,Formosa,1 
+27-06-2020,Jujuy,3 
+27-06-2020,La Pampa,0 
+27-06-2020,La Rioja,1 
+27-06-2020,Mendoza,6 
+27-06-2020,Misiones,0 
+27-06-2020,Neuquen,16 
+27-06-2020,Rio Negro,14 
+27-06-2020,Salta,2 
+27-06-2020,San Juan,0 
+27-06-2020,San Luis,0 
+27-06-2020,Santa Cruz,0 
+27-06-2020,Santa Fe,5 
+27-06-2020,Santiago del Estero,0 
+27-06-2020,Tierra del Fuego,0 
+27-06-2020,Tucuman,1 
+26-06-2020,Buenos Aires,1692 
+26-06-2020,CABA,967 
+26-06-2020,Catamarca,0 
+26-06-2020,Chaco,76 
+26-06-2020,Chubut,10 
+26-06-2020,Cordoba,8 
+26-06-2020,Corrientes,0 
+26-06-2020,Entre Rios,19 
+26-06-2020,Formosa,25 
+26-06-2020,Jujuy,27 
+26-06-2020,La Pampa,0 
+26-06-2020,La Rioja,1 
+26-06-2020,Mendoza,3 
+26-06-2020,Misiones,1 
+26-06-2020,Neuquen,31 
+26-06-2020,Rio Negro,13 
+26-06-2020,Salta,0 
+26-06-2020,San Juan,0 
+26-06-2020,San Luis,0 
+26-06-2020,Santa Cruz,0 
+26-06-2020,Santa Fe,12 
+26-06-2020,Santiago del Estero,0 
+26-06-2020,Tierra del Fuego,0 
+26-06-2020,Tucuman,1 
+25-06-2020,Buenos Aires,1482 
+25-06-2020,CABA,942 
+25-06-2020,Catamarca,0 
+25-06-2020,Chaco,61 
+25-06-2020,Chubut,1 
+25-06-2020,Cordoba,6 
+25-06-2020,Corrientes,0 
+25-06-2020,Entre Rios,17 
+25-06-2020,Formosa,0 
+25-06-2020,Jujuy,1 
+25-06-2020,La Pampa,0 
+25-06-2020,La Rioja,2 
+25-06-2020,Mendoza,1 
+25-06-2020,Misiones,1 
+25-06-2020,Neuquen,20 
+25-06-2020,Rio Negro,50 
+25-06-2020,Salta,0 
+25-06-2020,San Juan,0 
+25-06-2020,San Luis,0 
+25-06-2020,Santa Cruz,0 
+25-06-2020,Santa Fe,21 
+25-06-2020,Santiago del Estero,0 
+25-06-2020,Tierra del Fuego,0 
+25-06-2020,Tucuman,1 
+24-06-2020,Buenos Aires,1463 
+24-06-2020,CABA,1012 
+24-06-2020,Catamarca,0 
+24-06-2020,Chaco,37 
+24-06-2020,Chubut,2 
+24-06-2020,Cordoba,2 
+24-06-2020,Corrientes,0 
+24-06-2020,Entre Rios,24 
+24-06-2020,Formosa,0 
+24-06-2020,Jujuy,26 
+24-06-2020,La Pampa,1 
+24-06-2020,La Rioja,7 
+24-06-2020,Mendoza,8 
+24-06-2020,Misiones,0 
+24-06-2020,Neuquen,12 
+24-06-2020,Rio Negro,24 
+24-06-2020,Salta,3 
+24-06-2020,San Juan,0 
+24-06-2020,San Luis,0 
+24-06-2020,Santa Cruz,0 
+24-06-2020,Santa Fe,4 
+24-06-2020,Santiago del Estero,0 
+24-06-2020,Tierra del Fuego,0 
+24-06-2020,Tucuman,10 
+23-06-2020,Buenos Aires,1334 
+23-06-2020,CABA,759 
+23-06-2020,Catamarca,0 
+23-06-2020,Chaco,55 
+23-06-2020,Chubut,2 
+23-06-2020,Cordoba,23 
+23-06-2020,Corrientes,0 
+23-06-2020,Entre Rios,17 
+23-06-2020,Formosa,6 
+23-06-2020,Jujuy,2 
+23-06-2020,La Pampa,0 
+23-06-2020,La Rioja,1 
+23-06-2020,Mendoza,8 
+23-06-2020,Misiones,0 
+23-06-2020,Neuquen,29 
+23-06-2020,Rio Negro,19 
+23-06-2020,Salta,0 
+23-06-2020,San Juan,0 
+23-06-2020,San Luis,0 
+23-06-2020,Santa Cruz,1 
+23-06-2020,Santa Fe,29 
+23-06-2020,Santiago del Estero,0 
+23-06-2020,Tierra del Fuego,0 
+23-06-2020,Tucuman,0 
+22-06-2020,Buenos Aires,1037 
+22-06-2020,CABA,1024 
+22-06-2020,Catamarca,0 
+22-06-2020,Chaco,20 
+22-06-2020,Chubut,5 
+22-06-2020,Cordoba,11 
+22-06-2020,Corrientes,1 
+22-06-2020,Entre Rios,16 
+22-06-2020,Formosa,0 
+22-06-2020,Jujuy,2 
+22-06-2020,La Pampa,0 
+22-06-2020,La Rioja,0 
+22-06-2020,Mendoza,3 
+22-06-2020,Misiones,0 
+22-06-2020,Neuquen,11 
+22-06-2020,Rio Negro,8 
+22-06-2020,Salta,1 
+22-06-2020,San Juan,1 
+22-06-2020,San Luis,0 
+22-06-2020,Santa Cruz,0 
+22-06-2020,Santa Fe,5 
+22-06-2020,Santiago del Estero,0 
+22-06-2020,Tierra del Fuego,0 
+22-06-2020,Tucuman,1 
+21-06-2020,Buenos Aires,746 
+21-06-2020,CABA,707 
+21-06-2020,Catamarca,0 
+21-06-2020,Chaco,52 
+21-06-2020,Chubut,6 
+21-06-2020,Cordoba,13 
+21-06-2020,Corrientes,0 
+21-06-2020,Entre Rios,10 
+21-06-2020,Formosa,0 
+21-06-2020,Jujuy,0 
+21-06-2020,La Pampa,0 
+21-06-2020,La Rioja,0 
+21-06-2020,Mendoza,5 
+21-06-2020,Misiones,0 
+21-06-2020,Neuquen,9 
+21-06-2020,Rio Negro,16 
+21-06-2020,Salta,0 
+21-06-2020,San Juan,0 
+21-06-2020,San Luis,0 
+21-06-2020,Santa Cruz,0 
+21-06-2020,Santa Fe,17 
+21-06-2020,Santiago del Estero,0 
+21-06-2020,Tierra del Fuego,0 
+21-06-2020,Tucuman,0 
+20-06-2020,Buenos Aires,1013 
+20-06-2020,CABA,512 
+20-06-2020,Catamarca,0 
+20-06-2020,Chaco,24 
+20-06-2020,Chubut,3 
+20-06-2020,Cordoba,20 
+20-06-2020,Corrientes,2 
+20-06-2020,Entre Rios,19 
+20-06-2020,Formosa,2 
+20-06-2020,Jujuy,0 
+20-06-2020,La Pampa,0 
+20-06-2020,La Rioja,0 
+20-06-2020,Mendoza,5 
+20-06-2020,Misiones,0 
+20-06-2020,Neuquen,9 
+20-06-2020,Rio Negro,19 
+20-06-2020,Salta,0 
+20-06-2020,San Juan,0 
+20-06-2020,San Luis,0 
+20-06-2020,Santa Cruz,0 
+20-06-2020,Santa Fe,6 
+20-06-2020,Santiago del Estero,0 
+20-06-2020,Tierra del Fuego,0 
+20-06-2020,Tucuman,0 
+19-06-2020,Buenos Aires,1118 
+19-06-2020,CABA,804 
+19-06-2020,Catamarca,0 
+19-06-2020,Chaco,31 
+19-06-2020,Chubut,3 
+19-06-2020,Cordoba,19 
+19-06-2020,Corrientes,5 
+19-06-2020,Entre Rios,4 
+19-06-2020,Formosa,0 
+19-06-2020,Jujuy,1 
+19-06-2020,La Pampa,0 
+19-06-2020,La Rioja,0 
+19-06-2020,Mendoza,3 
+19-06-2020,Misiones,0 
+19-06-2020,Neuquen,27 
+19-06-2020,Rio Negro,34 
+19-06-2020,Salta,0 
+19-06-2020,San Juan,0 
+19-06-2020,San Luis,0 
+19-06-2020,Santa Cruz,0 
+19-06-2020,Santa Fe,11 
+19-06-2020,Santiago del Estero,0 
+19-06-2020,Tierra del Fuego,0 
+19-06-2020,Tucuman,0 
+18-06-2020,Buenos Aires,1106 
+18-06-2020,CABA,692 
+18-06-2020,Catamarca,0 
+18-06-2020,Chaco,68 
+18-06-2020,Chubut,10 
+18-06-2020,Cordoba,9 
+18-06-2020,Corrientes,1 
+18-06-2020,Entre Rios,6 
+18-06-2020,Formosa,4 
+18-06-2020,Jujuy,3 
+18-06-2020,La Pampa,0 
+18-06-2020,La Rioja,0 
+18-06-2020,Mendoza,3 
+18-06-2020,Misiones,1 
+18-06-2020,Neuquen,16 
+18-06-2020,Rio Negro,27 
+18-06-2020,Salta,0 
+18-06-2020,San Juan,0 
+18-06-2020,San Luis,0 
+18-06-2020,Santa Cruz,0 
+18-06-2020,Santa Fe,11 
+18-06-2020,Santiago del Estero,0 
+18-06-2020,Tierra del Fuego,0 
+18-06-2020,Tucuman,1 
+17-06-2020,Buenos Aires,799 
+17-06-2020,CABA,522 
+17-06-2020,Catamarca,0 
+17-06-2020,Chaco,20 
+17-06-2020,Chubut,8 
+17-06-2020,Cordoba,6 
+17-06-2020,Corrientes,2 
+17-06-2020,Entre Rios,5 
+17-06-2020,Formosa,0 
+17-06-2020,Jujuy,1 
+17-06-2020,La Pampa,0 
+17-06-2020,La Rioja,0 
+17-06-2020,Mendoza,1 
+17-06-2020,Misiones,0 
+17-06-2020,Neuquen,11 
+17-06-2020,Rio Negro,14 
+17-06-2020,Salta,1 
+17-06-2020,San Juan,0 
+17-06-2020,San Luis,0 
+17-06-2020,Santa Cruz,0 
+17-06-2020,Santa Fe,2 
+17-06-2020,Santiago del Estero,0 
+17-06-2020,Tierra del Fuego,0 
+17-06-2020,Tucuman,1 
+16-06-2020,Buenos Aires,797 
+16-06-2020,CABA,488 
+16-06-2020,Catamarca,0 
+16-06-2020,Chaco,23 
+16-06-2020,Chubut,1 
+16-06-2020,Cordoba,1 
+16-06-2020,Corrientes,1 
+16-06-2020,Entre Rios,12 
+16-06-2020,Formosa,0 
+16-06-2020,Jujuy,0 
+16-06-2020,La Pampa,0 
+16-06-2020,La Rioja,0 
+16-06-2020,Mendoza,3 
+16-06-2020,Misiones,0 
+16-06-2020,Neuquen,28 
+16-06-2020,Rio Negro,17 
+16-06-2020,Salta,0 
+16-06-2020,San Juan,0 
+16-06-2020,San Luis,0 
+16-06-2020,Santa Cruz,0 
+16-06-2020,Santa Fe,3 
+16-06-2020,Santiago del Estero,0 
+16-06-2020,Tierra del Fuego,0 
+16-06-2020,Tucuman,0 
+15-06-2020,Buenos Aires,635 
+15-06-2020,CABA,558 
+15-06-2020,Catamarca,0 
+15-06-2020,Chaco,27 
+15-06-2020,Chubut,2 
+15-06-2020,Cordoba,6 
+15-06-2020,Corrientes,2 
+15-06-2020,Entre Rios,15 
+15-06-2020,Formosa,6 
+15-06-2020,Jujuy,0 
+15-06-2020,La Pampa,1 
+15-06-2020,La Rioja,0 
+15-06-2020,Mendoza,7 
+15-06-2020,Misiones,0 
+15-06-2020,Neuquen,9 
+15-06-2020,Rio Negro,6 
+15-06-2020,Salta,2 
+15-06-2020,San Juan,0 
+15-06-2020,San Luis,0 
+15-06-2020,Santa Cruz,0 
+15-06-2020,Santa Fe,0 
+15-06-2020,Santiago del Estero,0 
+15-06-2020,Tierra del Fuego,0 
+15-06-2020,Tucuman,6 
+14-06-2020,Buenos Aires,635 
+14-06-2020,CABA,558 
+14-06-2020,Catamarca,0 
+14-06-2020,Chaco,27 
+14-06-2020,Chubut,2 
+14-06-2020,Cordoba,6 
+14-06-2020,Corrientes,2 
+14-06-2020,Entre Rios,15 
+14-06-2020,Formosa,6 
+14-06-2020,Jujuy,0 
+14-06-2020,La Pampa,1 
+14-06-2020,La Rioja,0 
+14-06-2020,Mendoza,7 
+14-06-2020,Misiones,0 
+14-06-2020,Neuquen,9 
+14-06-2020,Rio Negro,6 
+14-06-2020,Salta,2 
+14-06-2020,San Juan,0 
+14-06-2020,San Luis,0 
+14-06-2020,Santa Cruz,0 
+14-06-2020,Santa Fe,0 
+14-06-2020,Santiago del Estero,0 
+14-06-2020,Tierra del Fuego,0 
+14-06-2020,Tucuman,6 
+13-06-2020,Buenos Aires,849 
+13-06-2020,CABA,558 
+13-06-2020,Catamarca,0 
+13-06-2020,Chaco,49 
+13-06-2020,Chubut,9 
+13-06-2020,Cordoba,6 
+13-06-2020,Corrientes,1 
+13-06-2020,Entre Rios,2 
+13-06-2020,Formosa,26 
+13-06-2020,Jujuy,0 
+13-06-2020,La Pampa,0 
+13-06-2020,La Rioja,0 
+13-06-2020,Mendoza,0 
+13-06-2020,Misiones,0 
+13-06-2020,Neuquen,13 
+13-06-2020,Rio Negro,13 
+13-06-2020,Salta,2 
+13-06-2020,San Juan,1 
+13-06-2020,San Luis,0 
+13-06-2020,Santa Cruz,0 
+13-06-2020,Santa Fe,1 
+13-06-2020,Santiago del Estero,0 
+13-06-2020,Tierra del Fuego,0 
+13-06-2020,Tucuman,1 
+12-06-2020,Buenos Aires,744 
+12-06-2020,CABA,565 
+12-06-2020,Catamarca,0 
+12-06-2020,Chaco,39 
+12-06-2020,Chubut,4 
+12-06-2020,Cordoba,9 
+12-06-2020,Corrientes,0 
+12-06-2020,Entre Rios,4 
+12-06-2020,Formosa,1 
+12-06-2020,Jujuy,0 
+12-06-2020,La Pampa,0 
+12-06-2020,La Rioja,0 
+12-06-2020,Mendoza,2 
+12-06-2020,Misiones,0 
+12-06-2020,Neuquen,6 
+12-06-2020,Rio Negro,16 
+12-06-2020,Salta,0 
+12-06-2020,San Juan,0 
+12-06-2020,San Luis,0 
+12-06-2020,Santa Cruz,0 
+12-06-2020,Santa Fe,0 
+12-06-2020,Santiago del Estero,0 
+12-06-2020,Tierra del Fuego,0 
+12-06-2020,Tucuman,1 
+11-06-2020,Buenos Aires,756 
+11-06-2020,CABA,538 
+11-06-2020,Catamarca,0 
+11-06-2020,Chaco,48 
+11-06-2020,Chubut,0 
+11-06-2020,Cordoba,3 
+11-06-2020,Corrientes,3 
+11-06-2020,Entre Rios,6 
+11-06-2020,Formosa,0 
+11-06-2020,Jujuy,0 
+11-06-2020,La Pampa,0 
+11-06-2020,La Rioja,0 
+11-06-2020,Mendoza,1 
+11-06-2020,Misiones,1 
+11-06-2020,Neuquen,14 
+11-06-2020,Rio Negro,14 
+11-06-2020,Salta,0 
+11-06-2020,San Juan,0 
+11-06-2020,San Luis,0 
+11-06-2020,Santa Cruz,0 
+11-06-2020,Santa Fe,2 
+11-06-2020,Santiago del Estero,0 
+11-06-2020,Tierra del Fuego,0 
+11-06-2020,Tucuman,0 
+10-06-2020,Buenos Aires,621 
+10-06-2020,CABA,521 
+10-06-2020,Catamarca,0 
+10-06-2020,Chaco,45 
+10-06-2020,Chubut,0 
+10-06-2020,Cordoba,5 
+10-06-2020,Corrientes,0 
+10-06-2020,Entre Rios,4 
+10-06-2020,Formosa,0 
+10-06-2020,Jujuy,0 
+10-06-2020,La Pampa,0 
+10-06-2020,La Rioja,0 
+10-06-2020,Mendoza,0 
+10-06-2020,Misiones,0 
+10-06-2020,Neuquen,10 
+10-06-2020,Rio Negro,12 
+10-06-2020,Salta,3 
+10-06-2020,San Juan,1 
+10-06-2020,San Luis,0 
+10-06-2020,Santa Cruz,0 
+10-06-2020,Santa Fe,4 
+10-06-2020,Santiago del Estero,0 
+10-06-2020,Tierra del Fuego,0 
+10-06-2020,Tucuman,0 
+09-06-2020,Buenos Aires,545 
+09-06-2020,CABA,535 
+09-06-2020,Catamarca,0 
+09-06-2020,Chaco,28 
+09-06-2020,Chubut,5 
+09-06-2020,Cordoba,2 
+09-06-2020,Corrientes,1 
+09-06-2020,Entre Rios,2 
+09-06-2020,Formosa,0 
+09-06-2020,Jujuy,2 
+09-06-2020,La Pampa,0 
+09-06-2020,La Rioja,0 
+09-06-2020,Mendoza,1 
+09-06-2020,Misiones,0 
+09-06-2020,Neuquen,5 
+09-06-2020,Rio Negro,13 
+09-06-2020,Salta,0 
+09-06-2020,San Juan,0 
+09-06-2020,San Luis,0 
+09-06-2020,Santa Cruz,0 
+09-06-2020,Santa Fe,2 
+09-06-2020,Santiago del Estero,0 
+09-06-2020,Tierra del Fuego,0 
+09-06-2020,Tucuman,0 
+08-06-2020,Buenos Aires,344 
+08-06-2020,CABA,420 
+08-06-2020,Catamarca,0 
+08-06-2020,Chaco,45 
+08-06-2020,Chubut,1 
+08-06-2020,Cordoba,1 
+08-06-2020,Corrientes,0 
+08-06-2020,Entre Rios,2 
+08-06-2020,Formosa,0 
+08-06-2020,Jujuy,0 
+08-06-2020,La Pampa,0 
+08-06-2020,La Rioja,0 
+08-06-2020,Mendoza,1 
+08-06-2020,Misiones,1 
+08-06-2020,Neuquen,0 
+08-06-2020,Rio Negro,11 
+08-06-2020,Salta,0 
+08-06-2020,San Juan,0 
+08-06-2020,San Luis,0 
+08-06-2020,Santa Cruz,0 
+08-06-2020,Santa Fe,0 
+08-06-2020,Santiago del Estero,0 
+08-06-2020,Tierra del Fuego,0 
+08-06-2020,Tucuman,0 
+07-06-2020,Buenos Aires,375 
+07-06-2020,CABA,359 
+07-06-2020,Catamarca,0 
+07-06-2020,Chaco,18 
+07-06-2020,Chubut,5 
+07-06-2020,Cordoba,0 
+07-06-2020,Corrientes,0 
+07-06-2020,Entre Rios,2 
+07-06-2020,Formosa,0 
+07-06-2020,Jujuy,0 
+07-06-2020,La Pampa,0 
+07-06-2020,La Rioja,1 
+07-06-2020,Mendoza,0 
+07-06-2020,Misiones,3 
+07-06-2020,Neuquen,0 
+07-06-2020,Rio Negro,10 
+07-06-2020,Salta,1 
+07-06-2020,San Juan,0 
+07-06-2020,San Luis,0 
+07-06-2020,Santa Cruz,0 
+07-06-2020,Santa Fe,0 
+07-06-2020,Santiago del Estero,0 
+07-06-2020,Tierra del Fuego,0 
+07-06-2020,Tucuman,0 
+06-06-2020,Buenos Aires,457 
+06-06-2020,CABA,474 
+06-06-2020,Catamarca,0 
+06-06-2020,Chaco,19 
+06-06-2020,Chubut,1 
+06-06-2020,Cordoba,0 
+06-06-2020,Corrientes,0 
+06-06-2020,Entre Rios,10 
+06-06-2020,Formosa,0 
+06-06-2020,Jujuy,0 
+06-06-2020,La Pampa,0 
+06-06-2020,La Rioja,0 
+06-06-2020,Mendoza,0 
+06-06-2020,Misiones,4 
+06-06-2020,Neuquen,1 
+06-06-2020,Rio Negro,15 
+06-06-2020,Salta,0 
+06-06-2020,San Juan,0 
+06-06-2020,San Luis,0 
+06-06-2020,Santa Cruz,0 
+06-06-2020,Santa Fe,2 
+06-06-2020,Santiago del Estero,0 
+06-06-2020,Tierra del Fuego,0 
+06-06-2020,Tucuman,0 
+05-06-2020,Buenos Aires,371 
+05-06-2020,CABA,420 
+05-06-2020,Catamarca,0 
+05-06-2020,Chaco,29 
+05-06-2020,Chubut,3 
+05-06-2020,Cordoba,2 
+05-06-2020,Corrientes,0 
+05-06-2020,Entre Rios,4 
+05-06-2020,Formosa,0 
+05-06-2020,Jujuy,0 
+05-06-2020,La Pampa,0 
+05-06-2020,La Rioja,0 
+05-06-2020,Mendoza,1 
+05-06-2020,Misiones,0 
+05-06-2020,Neuquen,1 
+05-06-2020,Rio Negro,8 
+05-06-2020,Salta,0 
+05-06-2020,San Juan,0 
+05-06-2020,San Luis,0 
+05-06-2020,Santa Cruz,0 
+05-06-2020,Santa Fe,1 
+05-06-2020,Santiago del Estero,0 
+05-06-2020,Tierra del Fuego,0 
+05-06-2020,Tucuman,0 
+04-06-2020,Buenos Aires,422 
+04-06-2020,CABA,436 
+04-06-2020,Catamarca,0 
+04-06-2020,Chaco,53 
+04-06-2020,Chubut,0 
+04-06-2020,Cordoba,2 
+04-06-2020,Corrientes,0 
+04-06-2020,Entre Rios,0 
+04-06-2020,Formosa,0 
+04-06-2020,Jujuy,0 
+04-06-2020,La Pampa,0 
+04-06-2020,La Rioja,0 
+04-06-2020,Mendoza,0 
+04-06-2020,Misiones,2 
+04-06-2020,Neuquen,0 
+04-06-2020,Rio Negro,8 
+04-06-2020,Salta,0 
+04-06-2020,San Juan,0 
+04-06-2020,San Luis,0 
+04-06-2020,Santa Cruz,0 
+04-06-2020,Santa Fe,5 
+04-06-2020,Santiago del Estero,0 
+04-06-2020,Tierra del Fuego,0 
+04-06-2020,Tucuman,1 
+03-06-2020,Buenos Aires,442 
+03-06-2020,CABA,467 
+03-06-2020,Catamarca,0 
+03-06-2020,Chaco,6 
+03-06-2020,Chubut,1 
+03-06-2020,Cordoba,1 
+03-06-2020,Corrientes,0 
+03-06-2020,Entre Rios,2 
+03-06-2020,Formosa,0 
+03-06-2020,Jujuy,0 
+03-06-2020,La Pampa,0 
+03-06-2020,La Rioja,0 
+03-06-2020,Mendoza,0 
+03-06-2020,Misiones,1 
+03-06-2020,Neuquen,10 
+03-06-2020,Rio Negro,16 
+03-06-2020,Salta,0 
+03-06-2020,San Juan,0 
+03-06-2020,San Luis,0 
+03-06-2020,Santa Cruz,0 
+03-06-2020,Santa Fe,3 
+03-06-2020,Santiago del Estero,0 
+03-06-2020,Tierra del Fuego,0 
+03-06-2020,Tucuman,0 
+02-06-2020,Buenos Aires,488 
+02-06-2020,CABA,371 
+02-06-2020,Catamarca,0 
+02-06-2020,Chaco,30 
+02-06-2020,Chubut,0 
+02-06-2020,Cordoba,1 
+02-06-2020,Corrientes,2 
+02-06-2020,Entre Rios,2 
+02-06-2020,Formosa,0 
+02-06-2020,Jujuy,0 
+02-06-2020,La Pampa,0 
+02-06-2020,La Rioja,0 
+02-06-2020,Mendoza,0 
+02-06-2020,Misiones,0 
+02-06-2020,Neuquen,3 
+02-06-2020,Rio Negro,3 
+02-06-2020,Salta,4 
+02-06-2020,San Juan,0 
+02-06-2020,San Luis,0 
+02-06-2020,Santa Cruz,0 
+02-06-2020,Santa Fe,0 
+02-06-2020,Santiago del Estero,0 
+02-06-2020,Tierra del Fuego,0 
+02-06-2020,Tucuman,0 
+01-06-2020,Buenos Aires,252 
+01-06-2020,CABA,274 
+01-06-2020,Catamarca,0 
+01-06-2020,Chaco,3 
+01-06-2020,Chubut,0 
+01-06-2020,Cordoba,0 
+01-06-2020,Corrientes,6 
+01-06-2020,Entre Rios,0 
+01-06-2020,Formosa,0 
+01-06-2020,Jujuy,0 
+01-06-2020,La Pampa,0 
+01-06-2020,La Rioja,0 
+01-06-2020,Mendoza,8 
+01-06-2020,Misiones,0 
+01-06-2020,Neuquen,3 
+01-06-2020,Rio Negro,11 
+01-06-2020,Salta,3 
+01-06-2020,San Juan,0 
+01-06-2020,San Luis,0 
+01-06-2020,Santa Cruz,1 
+01-06-2020,Santa Fe,3 
+01-06-2020,Santiago del Estero,0 
+01-06-2020,Tierra del Fuego,0 
+01-06-2020,Tucuman,0 
+31-05-2020,Buenos Aires,254 
+31-05-2020,CABA,358 
+31-05-2020,Catamarca,0 
+31-05-2020,Chaco,13 
+31-05-2020,Chubut,0 
+31-05-2020,Cordoba,2 
+31-05-2020,Corrientes,1 
+31-05-2020,Entre Rios,0 
+31-05-2020,Formosa,0 
+31-05-2020,Jujuy,0 
+31-05-2020,La Pampa,0 
+31-05-2020,La Rioja,0 
+31-05-2020,Mendoza,0 
+31-05-2020,Misiones,1 
+31-05-2020,Neuquen,3 
+31-05-2020,Rio Negro,4 
+31-05-2020,Salta,0 
+31-05-2020,San Juan,0 
+31-05-2020,San Luis,0 
+31-05-2020,Santa Cruz,1 
+31-05-2020,Santa Fe,0 
+31-05-2020,Santiago del Estero,0 
+31-05-2020,Tierra del Fuego,0 
+31-05-2020,Tucuman,0 
+30-05-2020,Buenos Aires,296 
+30-05-2020,CABA,459 
+30-05-2020,Catamarca,0 
+30-05-2020,Chaco,24 
+30-05-2020,Chubut,2 
+30-05-2020,Cordoba,0 
+30-05-2020,Corrientes,0 
+30-05-2020,Entre Rios,1 
+30-05-2020,Formosa,0 
+30-05-2020,Jujuy,0 
+30-05-2020,La Pampa,0 
+30-05-2020,La Rioja,0 
+30-05-2020,Mendoza,3 
+30-05-2020,Misiones,0 
+30-05-2020,Neuquen,1 
+30-05-2020,Rio Negro,5 
+30-05-2020,Salta,1 
+30-05-2020,San Juan,0 
+30-05-2020,San Luis,0 
+30-05-2020,Santa Cruz,0 
+30-05-2020,Santa Fe,2 
+30-05-2020,Santiago del Estero,0 
+30-05-2020,Tierra del Fuego,0 
+30-05-2020,Tucuman,1 
+29-05-2020,Buenos Aires,273 
+29-05-2020,CABA,399 
+29-05-2020,Catamarca,0 
+29-05-2020,Chaco,26 
+29-05-2020,Chubut,0 
+29-05-2020,Cordoba,0 
+29-05-2020,Corrientes,6 
+29-05-2020,Entre Rios,0 
+29-05-2020,Formosa,0 
+29-05-2020,Jujuy,0 
+29-05-2020,La Pampa,0 
+29-05-2020,La Rioja,0 
+29-05-2020,Mendoza,0 
+29-05-2020,Misiones,0 
+29-05-2020,Neuquen,2 
+29-05-2020,Rio Negro,12 
+29-05-2020,Salta,0 
+29-05-2020,San Juan,0 
+29-05-2020,San Luis,0 
+29-05-2020,Santa Cruz,0 
+29-05-2020,Santa Fe,0 
+29-05-2020,Santiago del Estero,0 
+29-05-2020,Tierra del Fuego,0 
+29-05-2020,Tucuman,0 
+28-05-2020,Buenos Aires,299 
+28-05-2020,CABA,425 
+28-05-2020,Catamarca,0 
+28-05-2020,Chaco,28 
+28-05-2020,Chubut,3 
+28-05-2020,Cordoba,0
+28-05-2020,Corrientes,1 
+28-05-2020,Entre Rios,1 
+28-05-2020,Formosa,0 
+28-05-2020,Jujuy,1 
+28-05-2020,La Pampa,0 
+28-05-2020,La Rioja,0 
+28-05-2020,Mendoza,0 
+28-05-2020,Misiones,2 
+28-05-2020,Neuquen,3 
+28-05-2020,Rio Negro,7 
+28-05-2020,Salta,0 
+28-05-2020,San Juan,0 
+28-05-2020,San Luis,0 
+28-05-2020,Santa Cruz,0 
+28-05-2020,Santa Fe,0 
+28-05-2020,Santiago del Estero,0 
+28-05-2020,Tierra del Fuego,0 
+28-05-2020,Tucuman,0 
+27-05-2020,Buenos Aires,315 
+27-05-2020,CABA,361 
+27-05-2020,Catamarca,0 
+27-05-2020,Chaco,16 
+27-05-2020,Chubut,0 
+27-05-2020,Cordoba,0 
+27-05-2020,Corrientes,2 
+27-05-2020,Entre Rios,0 
+27-05-2020,Formosa,0 
+27-05-2020,Jujuy,0 
+27-05-2020,La Pampa,0 
+27-05-2020,La Rioja,0 
+27-05-2020,Mendoza,0 
+27-05-2020,Misiones,0 
+27-05-2020,Neuquen,2 
+27-05-2020,Rio Negro,8 
+27-05-2020,Salta,0 
+27-05-2020,San Juan,1 
+27-05-2020,San Luis,0 
+27-05-2020,Santa Cruz,0 
+27-05-2020,Santa Fe,0 
+27-05-2020,Santiago del Estero,0 
+27-05-2020,Tierra del Fuego,1 
+27-05-2020,Tucuman,0 
+26-05-2020,Buenos Aires,236 
+26-05-2020,CABA,327 
+26-05-2020,Catamarca,0 
+26-05-2020,Chaco,23 
+26-05-2020,Chubut,1 
+26-05-2020,Cordoba,0 
+26-05-2020,Corrientes,0 
+26-05-2020,Entre Rios,0 
+26-05-2020,Formosa,0 
+26-05-2020,Jujuy,0 
+26-05-2020,La Pampa,0 
+26-05-2020,La Rioja,0 
+26-05-2020,Mendoza,0 
+26-05-2020,Misiones,0 
+26-05-2020,Neuquen,7 
+26-05-2020,Rio Negro,4 
+26-05-2020,Salta,0 
+26-05-2020,San Juan,0 
+26-05-2020,San Luis,0 
+26-05-2020,Santa Cruz,0 
+26-05-2020,Santa Fe,2 
+26-05-2020,Santiago del Estero,0 
+26-05-2020,Tierra del Fuego,0 
+26-05-2020,Tucuman,0 
+25-05-2020,Buenos Aires,159 
+25-05-2020,CABA,375 
+25-05-2020,Catamarca,0 
+25-05-2020,Chaco,9 
+25-05-2020,Chubut,0 
+25-05-2020,Cordoba,2
+25-05-2020,Corrientes,0 
+25-05-2020,Entre Rios,0 
+25-05-2020,Formosa,0 
+25-05-2020,Jujuy,0 
+25-05-2020,La Pampa,0 
+25-05-2020,La Rioja,0 
+25-05-2020,Mendoza,0 
+25-05-2020,Misiones,0 
+25-05-2020,Neuquen,1 
+25-05-2020,Rio Negro,4 
+25-05-2020,Salta,0 
+25-05-2020,San Juan,0 
+25-05-2020,San Luis,0 
+25-05-2020,Santa Cruz,0 
+25-05-2020,Santa Fe,0
+25-05-2020,Santiago del Estero,0 
+25-05-2020,Tierra del Fuego,0 
+25-05-2020,Tucuman,2 
+24-05-2020,Buenos Aires,196
+24-05-2020,CABA,494 
+24-05-2020,Catamarca,0 
+24-05-2020,Chaco,20 
+24-05-2020,Chubut,0 
+24-05-2020,Cordoba,6 
+24-05-2020,Corrientes,0 
+24-05-2020,Entre Rios,0 
+24-05-2020,Formosa,0 
+24-05-2020,Jujuy,0 
+24-05-2020,La Pampa,0 
+24-05-2020,La Rioja,0 
+24-05-2020,Mendoza,0 
+24-05-2020,Misiones,0 
+24-05-2020,Neuquen,1 
+24-05-2020,Rio Negro,5 
+24-05-2020,Salta,0 
+24-05-2020,San Juan,0 
+24-05-2020,San Luis,0 
+24-05-2020,Santa Cruz,0 
+24-05-2020,Santa Fe,1
+24-05-2020,Santiago del Estero,0 
+24-05-2020,Tierra del Fuego,0 
+24-05-2020,Tucuman,0
+23-05-2020,Buenos Aires,289 
+23-05-2020,CABA,400 
+23-05-2020,Catamarca,0 
+23-05-2020,Chaco,7 
+23-05-2020,Chubut,0 
+23-05-2020,Cordoba,0 
+23-05-2020,Corrientes,0 
+23-05-2020,Entre Rios,0 
+23-05-2020,Formosa,0 
+23-05-2020,Jujuy,0 
+23-05-2020,La Pampa,0 
+23-05-2020,La Rioja,0 
+23-05-2020,Mendoza,0 
+23-05-2020,Misiones,0 
+23-05-2020,Neuquen,0 
+23-05-2020,Rio Negro,5 
+23-05-2020,Salta,0 
+23-05-2020,San Juan,0 
+23-05-2020,San Luis,0 
+23-05-2020,Santa Cruz,0 
+23-05-2020,Santa Fe,0 
+23-05-2020,Santiago del Estero,0 
+23-05-2020,Tierra del Fuego,0 
+23-05-2020,Tucuman,2
+22-05-2020,Buenos Aires,266 
+22-05-2020,CABA,404 
+22-05-2020,Catamarca,0 
+22-05-2020,Chaco,27 
+22-05-2020,Chubut,0 
+22-05-2020,Cordoba,9 
+22-05-2020,Corrientes,0 
+22-05-2020,Entre Rios,0 
+22-05-2020,Formosa,0 
+22-05-2020,Jujuy,0 
+22-05-2020,La Pampa,0 
+22-05-2020,La Rioja,0 
+22-05-2020,Mendoza,0 
+22-05-2020,Misiones,0 
+22-05-2020,Neuquen,0 
+22-05-2020,Rio Negro,6 
+22-05-2020,Salta,2 
+22-05-2020,San Juan,0 
+22-05-2020,San Luis,0 
+22-05-2020,Santa Cruz,0 
+22-05-2020,Santa Fe,4 
+22-05-2020,Santiago del Estero,0 
+22-05-2020,Tierra del Fuego,0 
+22-05-2020,Tucuman,0 
+21-05-2020,Buenos Aires,213 
+21-05-2020,CABA,379 
+21-05-2020,Catamarca,0 
+21-05-2020,Chaco,34 
+21-05-2020,Chubut,0 
+21-05-2020,Cordoba,12 
+21-05-2020,Corrientes,0 
+21-05-2020,Entre Rios,0 
+21-05-2020,Formosa,0 
+21-05-2020,Jujuy,0 
+21-05-2020,La Pampa,0 
+21-05-2020,La Rioja,0 
+21-05-2020,Mendoza,1 
+21-05-2020,Misiones,0 
+21-05-2020,Neuquen,0 
+21-05-2020,Rio Negro,3 
+21-05-2020,Salta,0 
+21-05-2020,San Juan,0 
+21-05-2020,San Luis,0 
+21-05-2020,Santa Cruz,0 
+21-05-2020,Santa Fe,5 
+21-05-2020,Santiago del Estero,0 
+21-05-2020,Tierra del Fuego,0 
+21-05-2020,Tucuman,1 
+20-05-2020,Buenos Aires,157 
+20-05-2020,CABA,224 
+20-05-2020,Catamarca,0 
+20-05-2020,Chaco,34 
+20-05-2020,Chubut,0 
+20-05-2020,Cordoba,9 
+20-05-2020,Corrientes,0 
+20-05-2020,Entre Rios,0 
+20-05-2020,Formosa,0 
+20-05-2020,Jujuy,0 
+20-05-2020,La Pampa,0 
+20-05-2020,La Rioja,0 
+20-05-2020,Mendoza,2 
+20-05-2020,Misiones,0 
+20-05-2020,Neuquen,0 
+20-05-2020,Rio Negro,6 
+20-05-2020,Salta,0 
+20-05-2020,San Juan,0 
+20-05-2020,San Luis,0 
+20-05-2020,Santa Cruz,0 
+20-05-2020,Santa Fe,0 
+20-05-2020,Santiago del Estero,6 
+20-05-2020,Tierra del Fuego,0 
+20-05-2020,Tucuman,0 
+19-05-2020,Buenos Aires,157 
+19-05-2020,CABA,224 
+19-05-2020,Catamarca,0 
+19-05-2020,Chaco,34 
+19-05-2020,Chubut,0 
+19-05-2020,Cordoba,9 
+19-05-2020,Corrientes,0 
+19-05-2020,Entre Rios,0 
+19-05-2020,Formosa,0 
+19-05-2020,Jujuy,0 
+19-05-2020,La Pampa,0 
+19-05-2020,La Rioja,0 
+19-05-2020,Mendoza,2 
+19-05-2020,Misiones,0 
+19-05-2020,Neuquen,0 
+19-05-2020,Rio Negro,6 
+19-05-2020,Salta,0 
+19-05-2020,San Juan,0 
+19-05-2020,San Luis,0 
+19-05-2020,Santa Cruz,0 
+19-05-2020,Santa Fe,0 
+19-05-2020,Santiago del Estero,6 
+19-05-2020,Tierra del Fuego,0 
+19-05-2020,Tucuman,0 
+18-05-2020,Buenos Aires,93 
+18-05-2020,CABA,169 
+18-05-2020,Catamarca,0 
+18-05-2020,Chaco,13 
+18-05-2020,Chubut,0 
+18-05-2020,Cordoba,20 
+18-05-2020,Corrientes,0
+18-05-2020,Entre Rios,0 
+18-05-2020,Formosa,0 
+18-05-2020,Jujuy,0 
+18-05-2020,La Pampa,0 
+18-05-2020,La Rioja,2 
+18-05-2020,Mendoza,0 
+18-05-2020,Misiones,0 
+18-05-2020,Neuquen,0 
+18-05-2020,Rio Negro,2 
+18-05-2020,Salta,0 
+18-05-2020,San Juan,1 
+18-05-2020,San Luis,0 
+18-05-2020,Santa Cruz,0 
+18-05-2020,Santa Fe,4 
+18-05-2020,Santiago del Estero,0 
+18-05-2020,Tierra del Fuego,0 
+18-05-2020,Tucuman,0 
+17-05-2020,Buenos Aires,74 
+17-05-2020,CABA,147 
+17-05-2020,Catamarca,0 
+17-05-2020,Chaco,19 
+17-05-2020,Chubut,0 
+17-05-2020,Cordoba,20 
+17-05-2020,Corrientes,0 
+17-05-2020,Entre Rios,0 
+17-05-2020,Formosa,0 
+17-05-2020,Jujuy,0 
+17-05-2020,La Pampa,0 
+17-05-2020,La Rioja,1 
+17-05-2020,Mendoza,0 
+17-05-2020,Misiones,0 
+17-05-2020,Neuquen,0 
+17-05-2020,Rio Negro,2 
+17-05-2020,Salta,0 
+17-05-2020,San Juan,0 
+17-05-2020,San Luis,0 
+17-05-2020,Santa Cruz,0 
+17-05-2020,Santa Fe,0 
+17-05-2020,Santiago del Estero,0 
+17-05-2020,Tierra del Fuego,0 
+17-05-2020,Tucuman,0 
+16-05-2020,Buenos Aires,97 
+16-05-2020,CABA,193 
+16-05-2020,Catamarca,0 
+16-05-2020,Chaco,21 
+16-05-2020,Chubut,0 
+16-05-2020,Cordoba,9 
+16-05-2020,Corrientes,0 
+16-05-2020,Entre Rios,0 
+16-05-2020,Formosa,0 
+16-05-2020,Jujuy,0 
+16-05-2020,La Pampa,0 
+16-05-2020,La Rioja,0 
+16-05-2020,Mendoza,0 
+16-05-2020,Misiones,0 
+16-05-2020,Neuquen,0 
+16-05-2020,Rio Negro,6 
+16-05-2020,Salta,0 
+16-05-2020,San Juan,0 
+16-05-2020,San Luis,0 
+16-05-2020,Santa Cruz,0 
+16-05-2020,Santa Fe,1 
+16-05-2020,Santiago del Estero,0 
+16-05-2020,Tierra del Fuego,0 
+16-05-2020,Tucuman,0 
+15-05-2020,Buenos Aires,86 
+15-05-2020,CABA,214 
+15-05-2020,Catamarca,0 
+15-05-2020,Chaco,25 
+15-05-2020,Chubut,0 
+15-05-2020,Cordoba,3 
+15-05-2020,Corrientes,0 
+15-05-2020,Entre Rios,0 
+15-05-2020,Formosa,0 
+15-05-2020,Jujuy,0 
+15-05-2020,La Pampa,0 
+15-05-2020,La Rioja,0 
+15-05-2020,Mendoza,0 
+15-05-2020,Misiones,0 
+15-05-2020,Neuquen,0 
+15-05-2020,Rio Negro,17 
+15-05-2020,Salta,0 
+15-05-2020,San Juan,0 
+15-05-2020,San Luis,0 
+15-05-2020,Santa Cruz,0 
+15-05-2020,Santa Fe,0 
+15-05-2020,Santiago del Estero,0 
+15-05-2020,Tierra del Fuego,0 
+15-05-2020,Tucuman,0 
+14-05-2020,Buenos Aires,79 
+14-05-2020,CABA,153 
+14-05-2020,Catamarca,0 
+14-05-2020,Chaco,9 
+14-05-2020,Chubut,0 
+14-05-2020,Cordoba,5 
+14-05-2020,Corrientes,2
+14-05-2020,Entre Rios,1 
+14-05-2020,Formosa,0 
+14-05-2020,Jujuy,0 
+14-05-2020,La Pampa,0 
+14-05-2020,La Rioja,0 
+14-05-2020,Mendoza,0 
+14-05-2020,Misiones,0 
+14-05-2020,Neuquen,1 
+14-05-2020,Rio Negro,4 
+14-05-2020,Salta,0 
+14-05-2020,San Juan,0 
+14-05-2020,San Luis,0 
+14-05-2020,Santa Cruz,0 
+14-05-2020,Santa Fe,0 
+14-05-2020,Santiago del Estero,0 
+14-05-2020,Tierra del Fuego,0 
+14-05-2020,Tucuman,0 
+13-05-2020,Buenos Aires,96 
+13-05-2020,CABA,178 
+13-05-2020,Catamarca,0 
+13-05-2020,Chaco,18 
+13-05-2020,Chubut,0 
+13-05-2020,Cordoba,11 
+13-05-2020,Corrientes,5 
+13-05-2020,Entre Rios,1 
+13-05-2020,Formosa,0 
+13-05-2020,Jujuy,0 
+13-05-2020,La Pampa,0 
+13-05-2020,La Rioja,0 
+13-05-2020,Mendoza,1 
+13-05-2020,Misiones,0 
+13-05-2020,Neuquen,2 
+13-05-2020,Rio Negro,4 
+13-05-2020,Salta,0 
+13-05-2020,San Juan,0 
+13-05-2020,San Luis,0 
+13-05-2020,Santa Cruz,0 
+13-05-2020,Santa Fe,0 
+13-05-2020,Santiago del Estero,0 
+13-05-2020,Tierra del Fuego,0 
+13-05-2020,Tucuman,0 
+12-05-2020,Buenos Aires,80 
+12-05-2020,CABA,188 
+12-05-2020,Catamarca,0 
+12-05-2020,Chaco,10 
+12-05-2020,Chubut,0 
+12-05-2020,Cordoba,3 
+12-05-2020,Corrientes,1 
+12-05-2020,Entre Rios,0 
+12-05-2020,Formosa,0 
+12-05-2020,Jujuy,0 
+12-05-2020,La Pampa,0 
+12-05-2020,La Rioja,0 
+12-05-2020,Mendoza,1 
+12-05-2020,Misiones,0 
+12-05-2020,Neuquen,0 
+12-05-2020,Rio Negro,1 
+12-05-2020,Salta,1 
+12-05-2020,San Juan,0 
+12-05-2020,San Luis,0 
+12-05-2020,Santa Cruz,0 
+12-05-2020,Santa Fe,0 
+12-05-2020,Santiago del Estero,0 
+12-05-2020,Tierra del Fuego,0 
+12-05-2020,Tucuman,0 
+11-05-2020,Buenos Aires,44 
+11-05-2020,CABA,137 
+11-05-2020,Catamarca,0 
+11-05-2020,Chaco,17 
+11-05-2020,Chubut,0 
+11-05-2020,Cordoba,14 
+11-05-2020,Corrientes,16 
+11-05-2020,Entre Rios,0 
+11-05-2020,Formosa,0 
+11-05-2020,Jujuy,0 
+11-05-2020,La Pampa,0 
+11-05-2020,La Rioja,1 
+11-05-2020,Mendoza,0 
+11-05-2020,Misiones,1 
+11-05-2020,Neuquen,0 
+11-05-2020,Rio Negro,13 
+11-05-2020,Salta,0 
+11-05-2020,San Juan,0 
+11-05-2020,San Luis,0 
+11-05-2020,Santa Cruz,0 
+11-05-2020,Santa Fe,0 
+11-05-2020,Santiago del Estero,0 
+11-05-2020,Tierra del Fuego,0 
+11-05-2020,Tucuman,1 
+10-05-2020,Buenos Aires,51 
+10-05-2020,CABA,165 
+10-05-2020,Catamarca,0 
+10-05-2020,Chaco,32 
+10-05-2020,Chubut,0 
+10-05-2020,Cordoba,5 
+10-05-2020,Corrientes,0 
+10-05-2020,Entre Rios,0 
+10-05-2020,Formosa,0 
+10-05-2020,Jujuy,0 
+10-05-2020,La Pampa,0 
+10-05-2020,La Rioja,0 
+10-05-2020,Mendoza,0 
+10-05-2020,Misiones,0 
+10-05-2020,Neuquen,0 
+10-05-2020,Rio Negro,2 
+10-05-2020,Salta,0 
+10-05-2020,San Juan,0 
+10-05-2020,San Luis,0 
+10-05-2020,Santa Cruz,0 
+10-05-2020,Santa Fe,0 
+10-05-2020,Santiago del Estero,1 
+10-05-2020,Tierra del Fuego,2 
+10-05-2020,Tucuman,0 
+09-05-2020,Buenos Aires,60 
+09-05-2020,CABA,83 
+09-05-2020,Catamarca,0 
+09-05-2020,Chaco,9 
+09-05-2020,Chubut,0 
+09-05-2020,Cordoba,6 
+09-05-2020,Corrientes,1 
+09-05-2020,Entre Rios,0 
+09-05-2020,Formosa,0 
+09-05-2020,Jujuy,0 
+09-05-2020,La Pampa,0 
+09-05-2020,La Rioja,0 
+09-05-2020,Mendoza,0 
+09-05-2020,Misiones,0 
+09-05-2020,Neuquen,1 
+09-05-2020,Rio Negro,4 
+09-05-2020,Salta,0 
+09-05-2020,San Juan,0 
+09-05-2020,San Luis,0 
+09-05-2020,Santa Cruz,0 
+09-05-2020,Santa Fe,0 
+09-05-2020,Santiago del Estero,0 
+09-05-2020,Tierra del Fuego,1 
+09-05-2020,Tucuman,0 
+08-05-2020,Buenos Aires,77 
+08-05-2020,CABA,130 
+08-05-2020,Catamarca,0 
+08-05-2020,Chaco,26 
+08-05-2020,Chubut,0 
+08-05-2020,Cordoba,2 
+08-05-2020,Corrientes,1 
+08-05-2020,Entre Rios,0 
+08-05-2020,Formosa,0 
+08-05-2020,Jujuy,0 
+08-05-2020,La Pampa,0 
+08-05-2020,La Rioja,1 
+08-05-2020,Mendoza,1 
+08-05-2020,Misiones,0 
+08-05-2020,Neuquen,0 
+08-05-2020,Rio Negro,2 
+08-05-2020,Salta,0 
+08-05-2020,San Juan,0 
+08-05-2020,San Luis,0 
+08-05-2020,Santa Cruz,0 
+08-05-2020,Santa Fe,0 
+08-05-2020,Santiago del Estero,0 
+08-05-2020,Tierra del Fuego,0 
+08-05-2020,Tucuman,0 
+07-05-2020,Buenos Aires,50 
+07-05-2020,CABA,77 
+07-05-2020,Catamarca,0 
+07-05-2020,Chaco,26 
+07-05-2020,Chubut,0 
+07-05-2020,Cordoba,4 
+07-05-2020,Corrientes,1 
+07-05-2020,Entre Rios,0 
+07-05-2020,Formosa,0 
+07-05-2020,Jujuy,0 
+07-05-2020,La Pampa,0 
+07-05-2020,La Rioja,1 
+07-05-2020,Mendoza,0 
+07-05-2020,Misiones,0 
+07-05-2020,Neuquen,0 
+07-05-2020,Rio Negro,3 
+07-05-2020,Salta,0 
+07-05-2020,San Juan,1 
+07-05-2020,San Luis,0 
+07-05-2020,Santa Cruz,0 
+07-05-2020,Santa Fe,0 
+07-05-2020,Santiago del Estero,0 
+07-05-2020,Tierra del Fuego,0 
+07-05-2020,Tucuman,0 
+06-05-2020,Buenos Aires,63 
+06-05-2020,CABA,102 
+06-05-2020,Catamarca,0 
+06-05-2020,Chaco,8 
+06-05-2020,Chubut,0 
+06-05-2020,Cordoba,5 
+06-05-2020,Corrientes,3 
+06-05-2020,Entre Rios,0 
+06-05-2020,Formosa,0 
+06-05-2020,Jujuy,0 
+06-05-2020,La Pampa,0 
+06-05-2020,La Rioja,1 
+06-05-2020,Mendoza,0 
+06-05-2020,Misiones,0 
+06-05-2020,Neuquen,0 
+06-05-2020,Rio Negro,6 
+06-05-2020,Salta,0 
+06-05-2020,San Juan,0 
+06-05-2020,San Luis,0 
+06-05-2020,Santa Cruz,0 
+06-05-2020,Santa Fe,0 
+06-05-2020,Santiago del Estero,0 
+06-05-2020,Tierra del Fuego,0 
+06-05-2020,Tucuman,0 
+05-05-2020,Buenos Aires,58 
+05-05-2020,CABA,57 
+05-05-2020,Catamarca,0 
+05-05-2020,Chaco,11 
+05-05-2020,Chubut,0 
+05-05-2020,Cordoba,1 
+05-05-2020,Corrientes,0 
+05-05-2020,Entre Rios,1 
+05-05-2020,Formosa,0 
+05-05-2020,Jujuy,0 
+05-05-2020,La Pampa,0 
+05-05-2020,La Rioja,0 
+05-05-2020,Mendoza,1 
+05-05-2020,Misiones,0 
+05-05-2020,Neuquen,0 
+05-05-2020,Rio Negro,4 
+05-05-2020,Salta,0 
+05-05-2020,San Juan,0 
+05-05-2020,San Luis,0 
+05-05-2020,Santa Cruz,0 
+05-05-2020,Santa Fe,1 
+05-05-2020,Santiago del Estero,0 
+05-05-2020,Tierra del Fuego,0 
+05-05-2020,Tucuman,0 
+04-05-2020,Buenos Aires,38 
+04-05-2020,CABA,43 
+04-05-2020,Catamarca,0 
+04-05-2020,Chaco,5 
+04-05-2020,Chubut,0 
+04-05-2020,Cordoba,6 
+04-05-2020,Corrientes,0 
+04-05-2020,Entre Rios,0 
+04-05-2020,Formosa,0 
+04-05-2020,Jujuy,0 
+04-05-2020,La Pampa,0 
+04-05-2020,La Rioja,1 
+04-05-2020,Mendoza,0 
+04-05-2020,Misiones,1 
+04-05-2020,Neuquen,0 
+04-05-2020,Rio Negro,7 
+04-05-2020,Salta,0 
+04-05-2020,San Juan,0 
+04-05-2020,San Luis,0 
+04-05-2020,Santa Cruz,0 
+04-05-2020,Santa Fe,0 
+04-05-2020,Santiago del Estero,0 
+04-05-2020,Tierra del Fuego,0 
+04-05-2020,Tucuman,3 
+03-05-2020,Buenos Aires,38 
+03-05-2020,CABA,49 
+03-05-2020,Catamarca,0 
+03-05-2020,Chaco,5 
+03-05-2020,Chubut,0 
+03-05-2020,Cordoba,1 
+03-05-2020,Corrientes,0 
+03-05-2020,Entre Rios,2 
+03-05-2020,Formosa,0 
+03-05-2020,Jujuy,0 
+03-05-2020,La Pampa,0 
+03-05-2020,La Rioja,0 
+03-05-2020,Mendoza,0 
+03-05-2020,Misiones,0 
+03-05-2020,Neuquen,0 
+03-05-2020,Rio Negro,6 
+03-05-2020,Salta,0 
+03-05-2020,San Juan,0 
+03-05-2020,San Luis,0 
+03-05-2020,Santa Cruz,0 
+03-05-2020,Santa Fe,0 
+03-05-2020,Santiago del Estero,0 
+03-05-2020,Tierra del Fuego,2 
+03-05-2020,Tucuman,0 
+02-05-2020,Buenos Aires,45 
+02-05-2020,CABA,58 
+02-05-2020,Catamarca,0 
+02-05-2020,Chaco,11 
+02-05-2020,Chubut,1 
+02-05-2020,Cordoba,12 
+02-05-2020,Corrientes,0 
+02-05-2020,Entre Rios,0 
+02-05-2020,Formosa,0 
+02-05-2020,Jujuy,0 
+02-05-2020,La Pampa,0 
+02-05-2020,La Rioja,0 
+02-05-2020,Mendoza,1 
+02-05-2020,Misiones,12 
+02-05-2020,Neuquen,0 
+02-05-2020,Rio Negro,6 
+02-05-2020,Salta,0 
+02-05-2020,San Juan,0 
+02-05-2020,San Luis,0 
+02-05-2020,Santa Cruz,0 
+02-05-2020,Santa Fe,0 
+02-05-2020,Santiago del Estero,0 
+02-05-2020,Tierra del Fuego,3 
+02-05-2020,Tucuman,0 
+01-05-2020,Buenos Aires,34 
+01-05-2020,CABA,29 
+01-05-2020,Catamarca,0 
+01-05-2020,Chaco,12 
+01-05-2020,Chubut,1 
+01-05-2020,Cordoba,13 
+01-05-2020,Corrientes,1 
+01-05-2020,Entre Rios,2 
+01-05-2020,Formosa,0 
+01-05-2020,Jujuy,0 
+01-05-2020,La Pampa,0 
+01-05-2020,La Rioja,3 
+01-05-2020,Mendoza,1 
+01-05-2020,Misiones,0 
+01-05-2020,Neuquen,0
+01-05-2020,Rio Negro,8 
+01-05-2020,Salta,0 
+01-05-2020,San Juan,0 
+01-05-2020,San Luis,0 
+01-05-2020,Santa Cruz,0 
+01-05-2020,Santa Fe,0 
+01-05-2020,Santiago del Estero,0 
+01-05-2020,Tierra del Fuego,1 
+01-05-2020,Tucuman,0 
+30-04-2020,Buenos Aires,66 
+30-04-2020,CABA,45 
+30-04-2020,Catamarca,0 
+30-04-2020,Chaco,3 
+30-04-2020,Chubut,0 
+30-04-2020,Cordoba,2 
+30-04-2020,Corrientes,1 
+30-04-2020,Entre Rios,0 
+30-04-2020,Formosa,0 
+30-04-2020,Jujuy,0 
+30-04-2020,La Pampa,0 
+30-04-2020,La Rioja,0 
+30-04-2020,Mendoza,5 
+30-04-2020,Misiones,0 
+30-04-2020,Neuquen,2 
+30-04-2020,Rio Negro,14 
+30-04-2020,Salta,0 
+30-04-2020,San Juan,0 
+30-04-2020,San Luis,0 
+30-04-2020,Santa Cruz,1 
+30-04-2020,Santa Fe,0 
+30-04-2020,Santiago del Estero,0 
+30-04-2020,Tierra del Fuego,2 
+30-04-2020,Tucuman,2 
+29-04-2020,Buenos Aires,103 
+29-04-2020,CABA,34 
+29-04-2020,Catamarca,0 
+29-04-2020,Chaco,4 
+29-04-2020,Chubut,0 
+29-04-2020,Cordoba,1 
+29-04-2020,Corrientes,0 
+29-04-2020,Entre Rios,0 
+29-04-2020,Formosa,0 
+29-04-2020,Jujuy,0 
+29-04-2020,La Pampa,0 
+29-04-2020,La Rioja,1 
+29-04-2020,Mendoza,2 
+29-04-2020,Misiones,4 
+29-04-2020,Neuquen,1 
+29-04-2020,Rio Negro,8 
+29-04-2020,Salta,0 
+29-04-2020,San Juan,0 
+29-04-2020,San Luis,0 
+29-04-2020,Santa Cruz,0 
+29-04-2020,Santa Fe,0 
+29-04-2020,Santiago del Estero,0 
+29-04-2020,Tierra del Fuego,0 
+29-04-2020,Tucuman,0 
+28-04-2020,Buenos Aires,48 
+28-04-2020,CABA,50 
+28-04-2020,Catamarca,0 
+28-04-2020,Chaco,0 
+28-04-2020,Chubut,0 
+28-04-2020,Cordoba,2 
+28-04-2020,Corrientes,1 
+28-04-2020,Entre Rios,0 
+28-04-2020,Formosa,0 
+28-04-2020,Jujuy,0 
+28-04-2020,La Pampa,0 
+28-04-2020,La Rioja,1 
+28-04-2020,Mendoza,1 
+28-04-2020,Misiones,0 
+28-04-2020,Neuquen,0 
+28-04-2020,Rio Negro,13 
+28-04-2020,Salta,0 
+28-04-2020,San Juan,0 
+28-04-2020,San Luis,0 
+28-04-2020,Santa Cruz,0 
+28-04-2020,Santa Fe,1 
+28-04-2020,Santiago del Estero,0 
+28-04-2020,Tierra del Fuego,6 
+28-04-2020,Tucuman,1 
+27-04-2020,Buenos Aires,50 
+27-04-2020,CABA,32 
+27-04-2020,Catamarca,0 
+27-04-2020,Chaco,10 
+27-04-2020,Chubut,0 
+27-04-2020,Cordoba,0 
+27-04-2020,Corrientes,0 
+27-04-2020,Entre Rios,0 
+27-04-2020,Formosa,0 
+27-04-2020,Jujuy,0 
+27-04-2020,La Pampa,0 
+27-04-2020,La Rioja,0 
+27-04-2020,Mendoza,0 
+27-04-2020,Misiones,2 
+27-04-2020,Neuquen,3 
+27-04-2020,Rio Negro,8 
+27-04-2020,Salta,0 
+27-04-2020,San Juan,0 
+27-04-2020,San Luis,0 
+27-04-2020,Santa Cruz,5 
+27-04-2020,Santa Fe,0 
+27-04-2020,Santiago del Estero,0 
+27-04-2020,Tierra del Fuego,1 
+27-04-2020,Tucuman,0 
+26-04-2020,Buenos Aires,56 
+26-04-2020,CABA,36 
+26-04-2020,Catamarca,0 
+26-04-2020,Chaco,3 
+26-04-2020,Chubut,0 
+26-04-2020,Cordoba,3 
+26-04-2020,Corrientes,6 
+26-04-2020,Entre Rios,1 
+26-04-2020,Formosa,0 
+26-04-2020,Jujuy,0 
+26-04-2020,La Pampa,0 
+26-04-2020,La Rioja,0 
+26-04-2020,Mendoza,0 
+26-04-2020,Misiones,0 
+26-04-2020,Neuquen,1 
+26-04-2020,Rio Negro,1 
+26-04-2020,Salta,1 
+26-04-2020,San Juan,0 
+26-04-2020,San Luis,0 
+26-04-2020,Santa Cruz,1 
+26-04-2020,Santa Fe,0 
+26-04-2020,Santiago del Estero,2 
+26-04-2020,Tierra del Fuego,0 
+26-04-2020,Tucuman,1 
+25-04-2020,Buenos Aires,94 
+25-04-2020,CABA,55 
+25-04-2020,Catamarca,0 
+25-04-2020,Chaco,7 
+25-04-2020,Chubut,0 
+25-04-2020,Cordoba,1 
+25-04-2020,Corrientes,1 
+25-04-2020,Entre Rios,0 
+25-04-2020,Formosa,0 
+25-04-2020,Jujuy,0 
+25-04-2020,La Pampa,0 
+25-04-2020,La Rioja,3 
+25-04-2020,Mendoza,0 
+25-04-2020,Misiones,0 
+25-04-2020,Neuquen,0 
+25-04-2020,Rio Negro,4 
+25-04-2020,Salta,0 
+25-04-2020,San Juan,0 
+25-04-2020,San Luis,0 
+25-04-2020,Santa Cruz,0 
+25-04-2020,Santa Fe,3 
+25-04-2020,Santiago del Estero,1 
+25-04-2020,Tierra del Fuego,4 
+25-04-2020,Tucuman,0 
+24-04-2020,Buenos Aires,61 
+24-04-2020,CABA,79 
+24-04-2020,Catamarca,0 
+24-04-2020,Chaco,7 
+24-04-2020,Chubut,0 
+24-04-2020,Cordoba,3 
+24-04-2020,Corrientes,4 
+24-04-2020,Entre Rios,0 
+24-04-2020,Formosa,0 
+24-04-2020,Jujuy,0 
+24-04-2020,La Pampa,0 
+24-04-2020,La Rioja,2 
+24-04-2020,Mendoza,0 
+24-04-2020,Misiones,1 
+24-04-2020,Neuquen,0 
+24-04-2020,Rio Negro,11 
+24-04-2020,Salta,0 
+24-04-2020,San Juan,0 
+24-04-2020,San Luis,0 
+24-04-2020,Santa Cruz,1 
+24-04-2020,Santa Fe,3 
+24-04-2020,Santiago del Estero,0 
+24-04-2020,Tierra del Fuego,1 
+24-04-2020,Tucuman,0
+23-04-2020,Buenos Aires,84 
+23-04-2020,CABA,37 
+23-04-2020,Catamarca,0 
+23-04-2020,Chaco,10 
+23-04-2020,Chubut,0 
+23-04-2020,Cordoba,2 
+23-04-2020,Corrientes,1 
+23-04-2020,Entre Rios,0 
+23-04-2020,Formosa,0 
+23-04-2020,Jujuy,0 
+23-04-2020,La Pampa,0 
+23-04-2020,La Rioja,0 
+23-04-2020,Mendoza,1 
+23-04-2020,Misiones,0 
+23-04-2020,Neuquen,1 
+23-04-2020,Rio Negro,4 
+23-04-2020,Salta,0 
+23-04-2020,San Juan,0 
+23-04-2020,San Luis,0 
+23-04-2020,Santa Cruz,0 
+23-04-2020,Santa Fe,6 
+23-04-2020,Santiago del Estero,0 
+23-04-2020,Tierra del Fuego,1 
+23-04-2020,Tucuman,0 
+22-04-2020,Buenos Aires,61 
+22-04-2020,CABA,39 
+22-04-2020,Catamarca,0 
+22-04-2020,Chaco,7 
+22-04-2020,Chubut,0 
+22-04-2020,Cordoba,4 
+22-04-2020,Corrientes,0 
+22-04-2020,Entre Rios,0 
+22-04-2020,Formosa,0 
+22-04-2020,Jujuy,0 
+22-04-2020,La Pampa,0 
+22-04-2020,La Rioja,5 
+22-04-2020,Mendoza,1 
+22-04-2020,Misiones,0 
+22-04-2020,Neuquen,1 
+22-04-2020,Rio Negro,17 
+22-04-2020,Salta,0 
+22-04-2020,San Juan,0 
+22-04-2020,San Luis,0 
+22-04-2020,Santa Cruz,0 
+22-04-2020,Santa Fe,5 
+22-04-2020,Santiago del Estero,0 
+22-04-2020,Tierra del Fuego,0 
+22-04-2020,Tucuman,3
+21-04-2020,Buenos Aires,60 
+21-04-2020,CABA,33 
+21-04-2020,Catamarca,0 
+21-04-2020,Chaco,5 
+21-04-2020,Chubut,0 
+21-04-2020,Cordoba,0 
+21-04-2020,Corrientes,0 
+21-04-2020,Entre Rios,0 
+21-04-2020,Formosa,0 
+21-04-2020,Jujuy,0 
+21-04-2020,La Pampa,0 
+21-04-2020,La Rioja,1 
+21-04-2020,Mendoza,0 
+21-04-2020,Misiones,0 
+21-04-2020,Neuquen,0 
+21-04-2020,Rio Negro,11 
+21-04-2020,Salta,0 
+21-04-2020,San Juan,0 
+21-04-2020,San Luis,0 
+21-04-2020,Santa Cruz,0 
+21-04-2020,Santa Fe,1 
+21-04-2020,Santiago del Estero,0 
+21-04-2020,Tierra del Fuego,1 
+21-04-2020,Tucuman,0 
+20-04-2020,Buenos Aires,42 
+20-04-2020,CABA,22 
+20-04-2020,Catamarca,0 
+20-04-2020,Chaco,5 
+20-04-2020,Chubut,0 
+20-04-2020,Cordoba,0 
+20-04-2020,Corrientes,3 
+20-04-2020,Entre Rios,0 
+20-04-2020,Formosa,0 
+20-04-2020,Jujuy,0 
+20-04-2020,La Pampa,0 
+20-04-2020,La Rioja,0 
+20-04-2020,Mendoza,1 
+20-04-2020,Misiones,0 
+20-04-2020,Neuquen,3 
+20-04-2020,Rio Negro,10 
+20-04-2020,Salta,0 
+20-04-2020,San Juan,0 
+20-04-2020,San Luis,0 
+20-04-2020,Santa Cruz,1 
+20-04-2020,Santa Fe,2 
+20-04-2020,Santiago del Estero,0 
+20-04-2020,Tierra del Fuego,0 
+20-04-2020,Tucuman,1 
+19-04-2020,Buenos Aires,48 
+19-04-2020,CABA,15 
+19-04-2020,Catamarca,0 
+19-04-2020,Chaco,5 
+19-04-2020,Chubut,1 
+19-04-2020,Cordoba,11 
+19-04-2020,Corrientes,0 
+19-04-2020,Entre Rios,0 
+19-04-2020,Formosa,0 
+19-04-2020,Jujuy,0 
+19-04-2020,La Pampa,0 
+19-04-2020,La Rioja,4 
+19-04-2020,Mendoza,3 
+19-04-2020,Misiones,0 
+19-04-2020,Neuquen,3 
+19-04-2020,Rio Negro,8 
+19-04-2020,Salta,0 
+19-04-2020,San Juan,0 
+19-04-2020,San Luis,0 
+19-04-2020,Santa Cruz,0 
+19-04-2020,Santa Fe,1 
+19-04-2020,Santiago del Estero,0 
+19-04-2020,Tierra del Fuego,3 
+19-04-2020,Tucuman,0 
+18-04-2020,Buenos Aires,31 
+18-04-2020,CABA,14 
+18-04-2020,Catamarca,0 
+18-04-2020,Chaco,24 
+18-04-2020,Chubut,0 
+18-04-2020,Cordoba,2 
+18-04-2020,Corrientes,0 
+18-04-2020,Entre Rios,0 
+18-04-2020,Formosa,0 
+18-04-2020,Jujuy,0 
+18-04-2020,La Pampa,0 
+18-04-2020,La Rioja,0 
+18-04-2020,Mendoza,0 
+18-04-2020,Misiones,1 
+18-04-2020,Neuquen,3 
+18-04-2020,Rio Negro,3 
+18-04-2020,Salta,0 
+18-04-2020,San Juan,0 
+18-04-2020,San Luis,0 
+18-04-2020,Santa Cruz,0 
+18-04-2020,Santa Fe,3 
+18-04-2020,Santiago del Estero,0 
+18-04-2020,Tierra del Fuego,0 
+17-04-2020,Buenos Aires,34 
+17-04-2020,CABA,14 
+17-04-2020,Catamarca,0 
+17-04-2020,Chaco,22 
+17-04-2020,Chubut,0
+17-04-2020,Cordoba,6 
+17-04-2020,Corrientes,0 
+17-04-2020,Entre Rios,0 
+17-04-2020,Formosa,0 
+17-04-2020,Jujuy,0 
+17-04-2020,La Pampa,0 
+17-04-2020,La Rioja,1 
+17-04-2020,Mendoza,1 
+17-04-2020,Misiones,1 
+17-04-2020,Neuquen,1 
+17-04-2020,Rio Negro,1 
+17-04-2020,Salta,0 
+17-04-2020,San Juan,0 
+17-04-2020,San Luis,0 
+17-04-2020,Santa Cruz,0 
+17-04-2020,Santa Fe,6 
+17-04-2020,Santiago del Estero,0 
+17-04-2020,Tierra del Fuego,2 
+17-04-2020,Tucuman,0 
+16-04-2020,Buenos Aires,30 
+16-04-2020,CABA,15 
+16-04-2020,Catamarca,0 
+16-04-2020,Chaco,11 
+16-04-2020,Chubut,0
+16-04-2020,Cordoba,13 
+16-04-2020,Corrientes,0 
+16-04-2020,Entre Rios,1 
+16-04-2020,Formosa,0 
+16-04-2020,Jujuy,0 
+16-04-2020,La Pampa,0 
+16-04-2020,La Rioja,3 
+16-04-2020,Mendoza,5 
+16-04-2020,Misiones,0 
+16-04-2020,Neuquen,1 
+16-04-2020,Rio Negro,9 
+16-04-2020,Salta,0
+16-04-2020,San Juan,0 
+16-04-2020,San Luis,0 
+16-04-2020,Santa Cruz,0 
+16-04-2020,Santa Fe,3 
+16-04-2020,Santiago del Estero,0 
+16-04-2020,Tierra del Fuego,7 
+16-04-2020,Tucuman,0 
+15-04-2020,Buenos Aires,62 
+15-04-2020,CABA,30 
+15-04-2020,Catamarca,0 
+15-04-2020,Chaco,7 
+15-04-2020,Chubut,1 
+15-04-2020,Cordoba,6 
+15-04-2020,Corrientes,0
+15-04-2020,Formosa,0 
+15-04-2020,Jujuy,0 
+15-04-2020,La Pampa,0 
+15-04-2020,La Rioja,3 
+15-04-2020,Mendoza,1 
+15-04-2020,Misiones,0 
+15-04-2020,Neuquen,1 
+15-04-2020,Rio Negro,12 
+15-04-2020,Salta,0
+15-04-2020,San Juan,0 
+15-04-2020,San Luis,0 
+15-04-2020,Santa Cruz,0 
+15-04-2020,Santa Fe,2 
+15-04-2020,Santiago del Estero,0 
+15-04-2020,Tierra del Fuego,3 
+15-04-2020,Tucuman,0 
+14-04-2020,Buenos Aires,66 
+14-04-2020,CABA,22 
+14-04-2020,Catamarca,0 
+14-04-2020,Chaco,31 
+14-04-2020,Chubut,0 
+14-04-2020,Cordoba,12 
+14-04-2020,Corrientes,0
+14-04-2020,Entre Rios,0 
+14-04-2020,Formosa,0 
+14-04-2020,Jujuy,0 
+14-04-2020,La Pampa,0 
+14-04-2020,La Rioja,6 
+14-04-2020,Mendoza,3 
+14-04-2020,Misiones,0 
+14-04-2020,Neuquen,2 
+14-04-2020,Rio Negro,13 
+14-04-2020,Salta,0 
+14-04-2020,San Juan,0 
+14-04-2020,San Luis,0 
+14-04-2020,Santa Cruz,0 
+14-04-2020,Santa Fe,2 
+14-04-2020,Santiago del Estero,0 
+14-04-2020,Tierra del Fuego,8 
+14-04-2020,Tucuman,0 
+13-04-2020,Buenos Aires,29 
+13-04-2020,CABA,10 
+13-04-2020,Catamarca,0 
+13-04-2020,Chaco,3 
+13-04-2020,Chubut,0 
+13-04-2020,Cordoba,4 
+13-04-2020,Corrientes,7 
+13-04-2020,La Pampa,0 
+13-04-2020,La Rioja,3 
+13-04-2020,Mendoza,2 
+13-04-2020,Misiones,0 
+13-04-2020,Neuquen,2 
+13-04-2020,Rio Negro,3 
+13-04-2020,Salta,0 
+13-04-2020,San Juan,0 
+13-04-2020,San Luis,0 
+13-04-2020,Santa Cruz,0 
+13-04-2020,Santa Fe,2 
+13-04-2020,Santiago del Estero,0 
+13-04-2020,Tierra del Fuego,4 
+13-04-2020,Tucuman,0 
+12-04-2020,Buenos Aires,28 
+12-04-2020,CABA,8 
+12-04-2020,Catamarca,0 
+12-04-2020,Chaco,1 
+12-04-2020,Chubut,0 
+12-04-2020,Cordoba,5 
+12-04-2020,Corrientes,0 
+12-04-2020,Entre Rios,0
+12-04-2020,Formosa,0 
+12-04-2020,Jujuy,0 
+12-04-2020,La Pampa,0 
+12-04-2020,La Rioja,1 
+12-04-2020,Mendoza,3 
+12-04-2020,Misiones,0 
+12-04-2020,Neuquen,1 
+12-04-2020,Rio Negro,13 
+12-04-2020,Salta,0 
+12-04-2020,San Juan,0 
+12-04-2020,San Luis,0 
+12-04-2020,Santa Cruz,0 
+12-04-2020,Santa Fe,3 
+12-04-2020,Santiago del Estero,0 
+12-04-2020,Tierra del Fuego,4 
+12-04-2020,Tucuman,0 
+11-04-2020,Buenos Aires,37 
+11-04-2020,CABA,46 
+11-04-2020,Catamarca,0 
+11-04-2020,Chaco,0 
+11-04-2020,Chubut,0 
+11-04-2020,Cordoba,32 
+11-04-2020,Corrientes,0 
+11-04-2020,Entre Rios,0 
+11-04-2020,Formosa,0 
+11-04-2020,Jujuy,0 
+11-04-2020,La Pampa,0 
+11-04-2020,La Rioja,4 
+11-04-2020,Mendoza,5 
+11-04-2020,Misiones,0 
+11-04-2020,Neuquen,1 
+11-04-2020,Rio Negro,23 
+11-04-2020,Salta,0 
+11-04-2020,San Juan,1 
+11-04-2020,San Luis,0 
+11-04-2020,Santa Cruz,3 
+11-04-2020,Santa Fe,3 
+11-04-2020,Santiago del Estero,3 
+11-04-2020,Tierra del Fuego,8 
+11-04-2020,Tucuman,1 
+10-04-2020,Buenos Aires,19 
+10-04-2020,CABA,11 
+10-04-2020,Catamarca,0 
+10-04-2020,Chaco,5 
+10-04-2020,Chubut,0 
+10-04-2020,Cordoba,13 
+10-04-2020,Corrientes,0 
+10-04-2020,Entre Rios,0 
+10-04-2020,Formosa,0 
+10-04-2020,Jujuy,0 
+10-04-2020,La Pampa,1 
+10-04-2020,La Rioja,0 
+10-04-2020,Mendoza,9 
+10-04-2020,Misiones,0 
+10-04-2020,Neuquen,7 
+10-04-2020,Rio Negro,7 
+10-04-2020,Salta,0 
+10-04-2020,San Juan,0 
+10-04-2020,San Luis,0 
+10-04-2020,Santa Cruz,6 
+10-04-2020,Santa Fe,1 
+10-04-2020,Santiago del Estero,0 
+10-04-2020,Tierra del Fuego,2 
+10-04-2020,Tucuman,0 
+09-04-2020,Buenos Aires,28 
+09-04-2020,CABA,23 
+09-04-2020,Catamarca,0 
+09-04-2020,Chaco,6 
+09-04-2020,Cordoba,5 
+09-04-2020,Corrientes,0 
+09-04-2020,Entre Rios,1
+09-04-2020,Formosa,0 
+09-04-2020,Jujuy,0 
+09-04-2020,La Pampa,0 
+09-04-2020,La Rioja,5 
+09-04-2020,Mendoza,2 
+09-04-2020,Misiones,0 
+09-04-2020,Neuquen,7 
+09-04-2020,Rio Negro,13 
+09-04-2020,Salta,0 
+09-04-2020,San Juan,0 
+09-04-2020,San Luis,0 
+09-04-2020,Santa Cruz,0 
+09-04-2020,Santa Fe,7 
+09-04-2020,Santiago del Estero,0 
+09-04-2020,Tierra del Fuego,0 
+09-04-2020,Tucuman,1 
+08-04-2020,Buenos Aires,17 
+08-04-2020,CABA,18 
+08-04-2020,Catamarca,0 
+08-04-2020,Chaco,15 
+08-04-2020,Cordoba,1 
+08-04-2020,La Pampa,1 
+08-04-2020,Mendoza,6 
+08-04-2020,Neuquen,17 
+08-04-2020,Rio Negro,1 
+08-04-2020,Santa Cruz,0 
+08-04-2020,Santa Fe,2 
+08-04-2020,Santiago del Estero,0 
+08-04-2020,Tierra del Fuego,2 
+07-04-2020,Buenos Aires,34 
+07-04-2020,CABA,24 
+07-04-2020,Chaco,4 
+07-04-2020,Cordoba,4 
+07-04-2020,Entre Rios,1 
+07-04-2020,Mendoza,2 
+07-04-2020,Neuquen,3 
+07-04-2020,Rio Negro,2 
+07-04-2020,Santa Cruz,8 
+07-04-2020,Santa Fe,3 
+07-04-2020,Tierra del Fuego,2 
+07-04-2020,Tucuman,1 
+06-04-2020,Buenos Aires,12 
+06-04-2020,CABA,17 
+06-04-2020,Chaco,4 
+06-04-2020,Cordoba,7 
+06-04-2020,Corrientes,2 
+06-04-2020,Jujuy,0 
+06-04-2020,La Rioja,1 
+06-04-2020,Mendoza,1 
+06-04-2020,Neuquen,6 
+06-04-2020,Rio Negro,2 
+06-04-2020,San Luis,1 
+06-04-2020,Santa Fe,8 
+06-04-2020,Santiago del Estero,5
+06-04-2020,Tierra del Fuego,2 
+06-04-2020,Tucuman,5 
+05-04-2020,Buenos Aires,33
+05-04-2020,CABA,32
+05-04-2020,Cordoba,5
+05-04-2020,Entre Rios,1
+05-04-2020,La Rioja,2
+05-04-2020,Mendoza,2
+05-04-2020,Neuquen,11
+05-04-2020,Rio Negro,2
+05-04-2020,Santa Cruz,1
+05-04-2020,Santa Fe,11
+05-04-2020,Tierra del Fuego,3
+04-04-2020,Buenos Aires,26
+04-04-2020,CABA,34
+04-04-2020,Chaco,8
+04-04-2020,Cordoba,3
+04-04-2020,La Rioja,2
+04-04-2020,Neuquen,4
+04-04-2020,Rio Negro,5
+04-04-2020,Santa Cruz,1
+04-04-2020,Santa Fe,5
+04-04-2020,Santiago del Estero,1
+04-04-2020,Tierra del Fuego,8
+04-04-2020,Tucuman,1
+03-04-2020,Buenos Aires,22
+03-04-2020,CABA,28
+03-04-2020,Chaco,8
+03-04-2020,Cordoba,14
+03-04-2020,Entre Rios,2
+03-04-2020,Mendoza,2
+03-04-2020,Neuquen,1
+03-04-2020,Rio Negro,1
+03-04-2020,San Luis,1
+03-04-2020,Santa Fe,8
+03-04-2020,Tierra del Fuego,1
+02-04-2020,Buenos Aires,36
+02-04-2020,CABA,24
+02-04-2020,Chaco,3
+02-04-2020,Cordoba,16
+02-04-2020,Corrientes,1
+02-04-2020,Entre Rios,2
+02-04-2020,Jujuy,2
+02-04-2020,La Rioja,3
+02-04-2020,Neuquen,4
+02-04-2020,San Luis,2
+02-04-2020,Santa Cruz,2
+02-04-2020,Santa Fe,8
+02-04-2020,Santiago del Estero,1
+02-04-2020,Tierra del Fuego,24
+02-04-2020,Tucuman,4
+01-04-2020,Buenos Aires,10
+01-04-2020,Chaco,12
+01-04-2020,Cordoba,6
+01-04-2020,Corrientes,1
+01-04-2020,Entre Rios,1
+01-04-2020,Neuquen,4
+01-04-2020,Salta,2
+01-04-2020,San Luis,1
+01-04-2020,Santa Cruz,10
+01-04-2020,Santa Fe,11
+01-04-2020,Tucuman,1
+31-03-2020,Buenos Aires,17
+31-03-2020,CABA,19
+31-03-2020,Chaco,3
+31-03-2020,Cordoba,14
+31-03-2020,Misiones,1
+31-03-2020,Rio Negro,1
+31-03-2020,Santa Fe,22
+31-03-2020,Tierra del Fuego,7
+31-03-2020,Tucuman,1
+30-03-2020,Buenos Aires,36
+30-03-2020,CABA,34
+30-03-2020,Chaco,12
+30-03-2020,Santa Fe,21
+30-03-2020,Cordoba,8
+30-03-2020,Tierra del Fuego,11
+30-03-2020,Corrientes,10
+30-03-2020,Entre Rios,3
+30-03-2020,Mendoza,3
+30-03-2020,Neuquen,8
+29-03-2020,Buenos Aires,16
+29-03-2020,CABA,13
+29-03-2020,Chaco,4
+29-03-2020,Santa Fe,13
+29-03-2020,Cordoba,18
+29-03-2020,Tierra del Fuego,4
+29-03-2020,San Juan,1
+29-03-2020,Corrientes,1
+29-03-2020,La Pampa,2
+29-03-2020,La Rioja,1
+29-03-2020,Mendoza,1
+29-03-2020,Misiones,1
+28-03-2020,CABA,18
+28-03-2020,Buenos Aires,8
+28-03-2020,Santa Fe,13
+28-03-2020,Chaco,5
+28-03-2020,Cordoba,1
+28-03-2020,Tierra del Fuego,4
+28-03-2020,Neuquen,2
+28-03-2020,Mendoza,1
+28-03-2020,Corrientes,4
+27-03-2020,CABA,43
+27-03-2020,Buenos Aires,36
+27-03-2020,Chaco,3
+27-03-2020,Cordoba,5
+27-03-2020,Tucuman,6
+27-03-2020,Santa Fe,9
+27-03-2020,Entre Rios,3
+27-03-2020,Neuquen,4
+27-03-2020,Mendoza,1
+27-03-2020,Rio Negro,3
+27-03-2020,Corrientes,2
+27-03-2020,Santiago del Estero,1
+27-03-2020,Misiones,1
+26-03-2020,CABA,30
+26-03-2020,Buenos Aires,27
+26-03-2020,Santa Fe,12
+26-03-2020,Chaco,3
+26-03-2020,Cordoba,3
+26-03-2020,Tierra del Fuego,3
+26-03-2020,Neuquen,3
+26-03-2020,Jujuy,2
+26-03-2020,Santa Cruz,2
+26-03-2020,Mendoza,1
+26-03-2020,San Luis,1
+25-03-2020,CABA,21
+25-03-2020,Buenos Aires,30
+25-03-2020,Chaco,12
+25-03-2020,Cordoba,15
+25-03-2020,Tierra del Fuego,1
+25-03-2020,Santa Fe,22
+25-03-2020,Neuquen,1
+25-03-2020,Santa Cruz,5
+25-03-2020,San Luis,5
+25-03-2020,Entre Rios,3
+25-03-2020,Tucuman,2
+25-03-2020,Mendoza,1
+24-03-2020,CABA,30
+24-03-2020,Buenos Aires,30
+24-03-2020,Santa Fe,3
+24-03-2020,Cordoba,7
+24-03-2020,Chaco,9
+24-03-2020,Tierra del Fuego,4
+24-03-2020,La Pampa,1
+24-03-2020,Neuquen,1
+24-03-2020,Santa Cruz,1
+23-03-2020,CABA,11
+23-03-2020,Buenos Aires,5
+23-03-2020,Santa Fe,13
+23-03-2020,Cordoba,3
+23-03-2020,Chaco,4
+22-03-2020,CABA,12
+22-03-2020,Buenos Aires,8
+22-03-2020,Cordoba,8
+22-03-2020,Chaco,7
+22-03-2020,Tucuman,5
+22-03-2020,Misiones,1
+21-03-2020,CABA,29
+21-03-2020,Buenos Aires,15
+21-03-2020,Chaco,5
+21-03-2020,Mendoza,5
+21-03-2020,Cordoba,4
+21-03-2020,Tierra del Fuego,3
+21-03-2020,Corrientes,2
+21-03-2020,Santa Fe,2
+21-03-2020,Tucuman,1
+21-03-2020,Rio Negro,1
+20-03-2020,Buenos Aires,9
+20-03-2020,CABA,9
+20-03-2020,Cordoba,5
+20-03-2020,Chaco,1
+20-03-2020,Tierra del Fuego,1
+20-03-2020,Entre Rios,1
+20-03-2020,Corrientes,1
+20-03-2020,Neuquen,2
+20-03-2020,Santiago del Estero,1
+19-03-2020,Buenos Aires,15
+19-03-2020,CABA,8
+19-03-2020,Cordoba,3
+19-03-2020,Chaco,2
+19-03-2020,Tucuman,1
+19-03-2020,Santa Fe,1
+19-03-2020,Rio Negro,1
+18-03-2020,CABA,10
+18-03-2020,Chaco,1
+18-03-2020,Buenos Aires,6
+18-03-2020,Cordoba,1
+18-03-2020,Entre Rios,1
+17-03-2020,CABA,4
+17-03-2020,Buenos Aires,2
+17-03-2020,Cordoba,2
+17-03-2020,Chaco,1
+17-03-2020,Jujuy,1
+17-03-2020,Salta,1
+17-03-2020,Rio Negro,1
+17-03-2020,Entre Rios,1
+17-03-2020,Santa Cruz,1
+16-03-2020,CABA,5
+16-03-2020,Chaco,3
+16-03-2020,Buenos Aires,1
+15-03-2020,CABA,6
+15-03-2020,Buenos Aires,1
+15-03-2020,Chaco,2
+15-03-2020,Tierra del Fuego,2
+13-03-2020,Buenos Aires,1
+13-03-2020,CABA,2
+11-03-2020,Buenos Aires,1
+11-03-2020,CABA,1
+10-03-2020,Buenos Aires,1
+10-03-2020,CABA,1
+08-03-2020,Buenos Aires,3
