@@ -19,7 +19,7 @@ while (<A>) {
 	my ($year, $month, $day) = $fecha =~ /([0-9]{4})-([0-9]{2})-([0-9]{2}).*/g;
 	if (!(defined($summary{$year}))) {
 		$summary{$year} = $monto;
-		open B, ">deuda/bm_$year.html";
+		open B, ">detalle/bm_$year.html";
 		print B "<html><head>
 <meta charset=\"UTF-8\">
 <style type=\"text/css\">
