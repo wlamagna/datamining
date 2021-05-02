@@ -15,9 +15,10 @@ my %summary = ();
 while (<A>) {
 	chomp;
 	next if (/^Project Name/);
-	next if (/^World bank projects/);
-	my ($proyecto, $pais, $id_proj, $monto, $status, $fecha) = split(/\t/);
-	my ($year, $month, $day) = $fecha =~ /([0-9]{4})-([0-9]{2})-([0-9]{2}).*/g;
+	next if (/^World bank/);
+	my ($proyecto, $pais, $id_proj, $monto, $status, $fecha_approval, $fecha_lastupdate) = split(/\t/);
+	next if ($fecha_approval == "");
+	my ($year, $month, $day) = $fecha_approval =~ /([0-9]{4})-([0-9]{2})-([0-9]{2}).*/g;
 	if (!(defined($summary{$year}))) {
 		$summary{$year} = $monto;
 		open B, ">detalle/bm_$year.html";
@@ -37,8 +38,8 @@ font: 10px sans-serif;
 		close B;
 	}
 }
-
 close A;
+
 print "cantidad\tdate\n";
 foreach my $y (sort keys %summary) {
 	print "$summary{$y}\t$y" . "0101\n";
