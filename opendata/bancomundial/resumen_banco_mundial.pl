@@ -1,6 +1,7 @@
 #!/usr/bin/perl
+# Programado por Walter wlamagna@gmail.com
 # 28-Jan-2018 - genera un resumen de los datos obtenidos de el banco mundial de desarrollo
-# 		con el fin de generar un resumen de los datos abiertos.
+# con el fin de generar un resumen de los datos abiertos.
 #
 #
 
@@ -13,7 +14,7 @@ my %summary = ();
 # Nombre del Proyecto     País    No. de identificación del proyecto      Monto del Compromiso    Estatus Fecha de aprobación
 while (<A>) {
 	chomp;
-	next if (/^Nombre del/);
+	next if (/^Project Name/);
 	my ($proyecto, $pais, $id_proj, $monto, $status, $fecha) = split(/\t/);
 	my ($year, $month, $day) = $fecha =~ /([0-9]{4})-([0-9]{2})-([0-9]{2}).*/g;
 	if (!(defined($summary{$year}))) {
