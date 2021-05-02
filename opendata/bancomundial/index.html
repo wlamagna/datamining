@@ -14,7 +14,15 @@ El <a href="https://projects.bancomundial.org" target="_new">Banco Mundial</a> t
 de datos.  Puede hacer <a href="dm/es_index.html">Datamining</a>.
 <br />
 
+Prestamos a la Republica Argentina para proyectos.
+1. Obtener los datos<br />
 <a href="Projects 1-500.Mayo.2021.xlsx">Proyectos por los que Argentina pidio un prestamo</a> (montos en millones de U$D)<br /><br />
+2. Data Cleaning<br />
+<pre>
+unoconv -e FilterOptions=9/32,,9 --format csv Projects\ 1-500.Mayo.2021.xlsx
+</pre>
+Tambien <a href="xls2csv.pl">este</a> este script que hice pero no sirvio mucho en este caso.  Queda aca por si es util en un futuro.
+
 
 
 <br />

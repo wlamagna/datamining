@@ -15,6 +15,7 @@ my %summary = ();
 while (<A>) {
 	chomp;
 	next if (/^Project Name/);
+	next if (/^World bank projects/);
 	my ($proyecto, $pais, $id_proj, $monto, $status, $fecha) = split(/\t/);
 	my ($year, $month, $day) = $fecha =~ /([0-9]{4})-([0-9]{2})-([0-9]{2}).*/g;
 	if (!(defined($summary{$year}))) {
