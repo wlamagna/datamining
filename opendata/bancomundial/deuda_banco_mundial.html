@@ -1,76 +1,81 @@
 <!DOCTYPE html>
 <html>
-	<title>Peestamos del Banco Mundial para proyectos</title>
+	<title>Prestamos solicitados por Republica Argentina al Banco Mundial</title>
 <head>
-	<meta charset="UTF-8">
-	<meta name="description" content="Datos Abiertos Banco Mundial : Proyectos">
-	<meta name="keywords" content="datos abiertos open data argentina">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<script src="js/d3.v3.min.js"></script>
-	<script src="js/d3.tip.v0.6.3.js"></script>
-	<style>
-	body {
-		font: 10px sans-serif;
-	}
-	path {
-		stroke: steelblue;
-		stroke-width: 2;
-		fill: none;
-	}
-	.axis path, .axis line {
-		fill: none;
-		stroke: #000;
-		shape-rendering: crispEdges;
-	}
-	.line {
-		fill: none;
-		stroke: steelblue;
-		stroke-width: 1.5px;
-	}
-	</style>
-</head>
+<meta charset="UTF-8">
+<meta name="description" content="Datos Abiertos Banco Mundial : Proyectos">
+<meta name="keywords" content="datos abiertos open data argentina">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="js/d3.v3.min.js"></script>
+<script src="js/d3.tip.v0.6.3.js"></script>
+<style>
+body {
+	font: 10px sans-serif;
+}
+path {
+	stroke: steelblue;
+	stroke-width: 2;
+	fill: none;
+}
+.axis path, .axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+.line {
+	fill: none;
+	stroke: steelblue;
+	stroke-width: 1.5px;
+}
 
-<body>
+div.tooltip {
+  position: absolute;	
+  text-align: center;	
+//  width: 200px;	
+//  height: 100%;		
+  padding: 2px;	
+  font: 12px sans-serif;	
+  background: lightsteelblue;	
+  border: 0px;					
+  border-radius: 8px;
+ /*  pointer-events: none;	This line needs to be removed */
 	
+}
+</style>
+</head>
+<body>
 <b>
-Terminos y condiciones de los datos:</b><a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0).</a>.<br />
-Procedimiento de preparación de los datos: Se analizaron los datos compartidos por el <a href="http://www.bancomundial.org/">Banco Mundial</a>
-donde se presentan los prestamos que solicitan los paises.  Para mi querido pais: Argentina, se analizaron los proyectos desde el año 1965
-hasta la actualidad.<br />
-Cada punto en el gráfico de linea agrupa en millones de dolares el prestamo que hizo el Banco Mundial a la República Argentina.<br />
-Si desea analizar el detalle (un muy breve detalle) de el destino de los fondos, pinche en el punto que agrupa la deuda de ese año
-y busque "fuente".<br />
+Procedimiento de preparación de los datos se explica <a href="bancomundial/">aca</a>.
+Eje X = Año, Eje Y : Millones de dólares solicidatos para proyectos.<br />
+Cada punto Cada punto en el gráfico es el total de millones de dolares solicitados al Banco Mundial, por la Republica Argentina.<br />
 <br />
-<u>Fuentes de datos:</u>
-<br />Banco Mundial<br />
-  <script>
-
-    var margin = {
+<br /><br />Terminos y condiciones de los datos:</b><a href="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International (CC BY 4.0).</a>.<br />
+<script>
+var margin = {
         top: 20,
         right: 80,
         bottom: 30,
         left: 50
-      },
-      width = 1200 - margin.left - margin.right,
-      height = 400 - margin.top - margin.bottom;
+},
+width = 1000 - margin.left - margin.right,
+height = 400 - margin.top - margin.bottom;
 
-    var parseDate = d3.time.format("%Y%m%d").parse;
-	var format = d3.time.format("%Y%m%d");
-	
-    var x = d3.time.scale()
-      .range([0, width]);
+var parseDate = d3.time.format("%Y%m%d").parse;
+var format = d3.time.format("%Y%m%d");
+var x = d3.time.scale()
+	.range([0, width]);
 
-    var y = d3.scale.linear()
+var y = d3.scale.linear()
       .range([height, 0]);
 
-    var color = d3.scale.category10();
+var color = d3.scale.category10();
 
-    var xAxis = d3.svg.axis()
-      .scale(x)
-      .ticks(20)
-      .orient("bottom");
+var xAxis = d3.svg.axis()
+	.scale(x)
+	.ticks(20)
+	.orient("bottom");
 
-    var yAxis = d3.svg.axis()
+var yAxis = d3.svg.axis()
       .scale(y)
       .orient("left");
 
@@ -80,7 +85,7 @@ y busque "fuente".<br />
         return x(d.date);
       })
       .y(function(d) {
-        return y(d.personas);
+        return y(d.monto);
       });
 
     var svg = d3.select("body").append("svg")
@@ -93,96 +98,90 @@ y busque "fuente".<br />
 		return d;
 	}
 
-	function graficardatos(data) {
+var div = d3.select("body")
+	.append("div")  // declare the tooltip div 
+	.attr("class", "tooltip")              // apply the 'tooltip' class
+	.style("opacity", 0);                  // set the opacity to nil
 
-		color.domain(d3.keys(data[0]).filter(function(key) {
-			return key !== "date";
-		}));
 
-		data.forEach(function(d) {
-		  d.date = parseDate(d.date);
-		});
+function graficardatos(data) {
+	color.domain(d3.keys(data[0]).filter(function(key) {
+		return key !== "date";
+	}));
 
-		var asignaciones = color.domain().map(function(name) {
+	data.forEach(function(d) {
+	  d.date = parseDate(d.date);
+	});
+
+	var asignaciones = color.domain().map(function(name) {
+	  return {
+		name: name,
+		values: data.map(function(d) {
 		  return {
-			name: name,
-			values: data.map(function(d) {
-			  return {
-				date: d.date,
-				personas: +d[name]
-			  };
-			})
+			date: d.date,
+			monto: +d[name]
 		  };
+		})
+	  };
+	});
+
+	x.domain(d3.extent(data, function(d) {
+	  return d.date;
+	}));
+
+	y.domain([
+		d3.min(asignaciones, function(c) {
+		return d3.min(c.values, function(v) {
+		  return v.monto;
 		});
+	  }),
+	d3.max(asignaciones, function(c) {
+		return d3.max(c.values, function(v) {
+			return v.monto;
+		});
+	})
+	]);
 
-		x.domain(d3.extent(data, function(d) {
-		  return d.date;
-		}));
+	var legend = svg.selectAll('g')
+	  .data(asignaciones)
+	  .enter()
+	  .append('g')
+	  .attr('class', 'legend');
 
-		y.domain([
-		  d3.min(asignaciones, function(c) {
-			return d3.min(c.values, function(v) {
-			  return v.personas;
-			});
-		  }),
-		  d3.max(asignaciones, function(c) {
-			return d3.max(c.values, function(v) {
-			  return v.personas;
-			});
-		  })
-		]);
-
-		var legend = svg.selectAll('g')
-		  .data(asignaciones)
-		  .enter()
-		  .append('g')
-		  .attr('class', 'legend');
-
-		legend.append('rect')
-		  .attr('x', width - 20)
-		  .attr('y', function(d, i) {
-			return i * 20;
-		  })
-		  .attr('width', 10)
-		  .attr('height', 10)
+	legend.append('rect')
+	  .attr('x', width - 20)
+	  .attr('y', function(d, i) {
+		return i * 20;
+	  })
+	  .attr('width', 10)
+	  .attr('height', 10)
 		  .style('fill', function(d) {
 			return color(d.name);
 		  });
 
-		legend.append('text')
-		  .attr('x', width - 8)
-		  .attr('y', function(d, i) {
-			return (i * 20) + 9;
-		  })
-		  .text(function(d) {
-			return d.name;
-		  });
+	legend.append('text')
+	  .attr('x', width - 8)
+	  .attr('y', function(d, i) {
+		return (i * 20) + 9;
+	  })
+	  .text(function(d) {
+		return d.name;
+	  });
 
-		svg.append("g")
-			.attr("class", "x axis")
-			.attr("transform", "translate(0," + height + ")")
-			.call(xAxis);
+	svg.append("g")
+	.attr("class", "x axis")
+	.attr("transform", "translate(0," + height + ")")
+	.call(xAxis);
 
-		svg.append("g")
-			.attr("class", "y axis")
-			.call(yAxis)
-			.append("text")
-			.attr("transform", "rotate(-90)")
-			.attr("y", 6)
-			.attr("dy", ".71em")
-			.style("text-anchor", "end")
-			.text("Millones de Dolares");
-
-		//Mouseover tip
-		var tip = d3.tip()
-		.attr('class', 'd3-tip')
-		.offset([30, 40])
-		.html(function(d) {
-			return "<strong>Deuda: " + d.cantidad +
-			" millones U$D.</strong><br />" +
-			" Fecha: " + d.date + "<br>Fuente: <a href=\"detalle\\bm_" + d.date.getFullYear() + ".html\" target=\"_new\">fuente</a></a><br>" + "<br>";
-		});
-		svg.call(tip);
+	svg.append("g")
+	.attr("class", "y axis")
+	.call(yAxis)
+	.append("text")
+	.attr("transform", "rotate(-90)")
+	.attr("y", 6)
+	.attr("dy", ".71em")
+	.style("text-anchor", "end")
+	.text("Millones de Dolares");
 
     var mouseG = svg.append("g")
       .attr("class", "mouse-over-effects");
@@ -201,28 +200,39 @@ y busque "fuente".<br />
 
     // draw the line
     svg.append("path")
-	  .attr("d", line(data));
+	.attr("d", line(data));
 
 	svg.selectAll(".dot")
-			.data(data)
-			.enter().append("circle")
-			.attr('class', 'datapoint')
-			.attr('cx', function(d) { return x(d.date); })
-			.attr('cy', function(d) { return y(d.cantidad); })
-			.attr('r', 4)
-			.attr('fill', 'gray')
-			.attr('stroke', 'steelblue')
-			.attr('stroke-width', '1')
-			.on('mouseover', tip.show)
-			.on('mouseout', function() {
-				d3.select(".dot")
-				.transition()
-				.delay(100)
-				.duration(600)
-				.style("opacity",0)
-				.style('pointer-events', 'none')
-			});
-	}
+	.data(data)
+	.enter().append("circle")
+	.attr('class', 'datapoint')
+	.attr('cx', function(d) { return x(d.date); })
+	.attr('cy', function(d) { return y(d.cantidad); })
+	.attr('r', 4)
+	.attr('fill', 'gray')
+	.attr('stroke', 'steelblue')
+	.attr('stroke-width', '1')
+	.on('mouseover', function(d) {
+		div.transition()
+		.duration(500)
+		.style("opacity", 0);
+		div.transition()
+		.duration(200)
+		.style("opacity", .9);
+		var salida = "";
+		div.html('Total:' + d.cantidad + ' millones de U$D<br /><object data="detalle/bm_' + d.date.getFullYear() + '.html"/>')
+		.style("left", (d3.event.pageX) + "px")			 
+		.style("top", (d3.event.pageY - 28) + "px");
+	})
+	.on('mouseout', function() {
+		d3.select(".dot")
+		.transition()
+		.delay(100)
+		.duration(600)
+		.style("opacity",0)
+		.style('pointer-events', 'none')
+	});
+}
 
 	// Read in .csv data and make graph
 	d3.tsv("deuda_banco_mundial_viz.csv", parser,
@@ -230,6 +240,7 @@ y busque "fuente".<br />
 		graficardatos(csvdata);
 	}); 
 	</script>
+
 </body>
 
 </html>
