@@ -33,7 +33,7 @@ font: 10px sans-serif;
 		close B;
 	} else {
 		$summary{$year} += $monto;
-		open B, ">>deuda/bm_$year.html";
+		open B, ">>detalle/bm_$year.html";
 		print B "<b>$fecha</b>&nbsp;<font color=\"red\">$monto</font>&nbsp;$proyecto<br />\n";
 		close B;
 	}
