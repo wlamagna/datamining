@@ -220,7 +220,7 @@ function graficardatos(data) {
 		.duration(200)
 		.style("opacity", .9);
 		var salida = "";
-		div.html('Total:' + d.cantidad + ' millones de U$D<br /><object data="detalle/bm_' + d.date.getFullYear() + '.html"/>')
+		div.html('Año:' + d.date.getFullYear() + ',Total:' + d.cantidad + ' millones de U$D<br /><object data="detalle/bm_' + d.date.getFullYear() + '.html"/>')
 		.style("left", (d3.event.pageX) + "px")			 
 		.style("top", (d3.event.pageY - 28) + "px");
 	})
