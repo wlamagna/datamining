@@ -21,7 +21,3 @@ de Saludo, es decir: https://creativecommons.org/licenses/by/4.0/deed.es
 
 Los contenidos de Argentina.gob.ar están licenciados bajo Creative Commons Atribución 4.0 Internacional
 
-Por una Argentina unida.
-
-<href="https://www.facebook.com/groups/datosabiertos/">Comunidad Datos Abiertos Argentina</a>
-
